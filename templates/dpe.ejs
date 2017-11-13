@@ -1,0 +1,13 @@
+    
+    <!-- DPE Instanz -->
+    <!-- rect center w:750 h:1400  rgb(182,144,73)  rgb(226,211,182)-->
+    <path fill="rgb(235,220,190)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M <%=data.x1%>,<%=config.dpe.y + 400%> L <%=data.x2%>,<%=config.dpe.y + 400%> <%=data.x2%>,<%=config.dpe.y + 1900%> <%=data.x1%>,<%=config.dpe.y + 1900%> <%=data.x1%>,<%=config.dpe.y + 400%> Z"/>
+    <!-- rect rechts w:100 h:100  rgb(152,120,61)-->
+    <path fill="rgb(200,170,100)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M <%=data.x2%>,<%=config.dpe.y + 400%> L <%=data.x2 + 50%>,<%=config.dpe.y + 300%> <%=data.x2 + 50%>,<%=config.dpe.y + 1850%> <%=data.x2%>,<%=config.dpe.y + 1900%> <%=data.x2%>,<%=config.dpe.y + 400%> Z"/>
+    <!-- rect oben w:100 h:100 rgb(243,192,97)-->  
+    <path fill="rgb(226,211,182)" fill-opacity="1.0" stroke="rgb(134,106,54)"  stroke-width="10" stroke-linejoin="round" d="M <%=data.x1%>,<%=config.dpe.y + 400%> L <%=data.x1 + 70%>,<%=config.dpe.y + 300%> <%=data.x2 + 50%>,<%=config.dpe.y + 300%> <%=data.x2%>,<%=config.dpe.y + 400%> <%=data.x1%>,<%=config.dpe.y + 400%> Z"/>
+
+    <text x="<%=data.x1 + 50%>" y="<%=config.dpe.y + 1700%>" transform="rotate(-90 <%=data.x1 + 150%>,<%=config.dpe.y + 1700%>)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="150px"><%=data.name%></text>
+    <text x="<%=data.x1 + 170%>" y="<%=config.dpe.y + 1700%>" transform="rotate(-90 <%=data.x1 + 270%>,<%=config.dpe.y + 1700%>)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="100px"><%=data.details%></text>

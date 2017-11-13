@@ -1,0 +1,264 @@
+{
+  "version": "0.2.0",
+  "clap": 
+    {"dpeCloud": [
+        {
+            "name":"Client",
+            "opacity":0.8,
+            "dpe": [
+                {
+                    "name": "Client Device",
+                    "details": "", 
+                    "rte": [ 
+                        {"name":"SPA, Native/Hybrid App", "state":"green", "io": [
+                            {"serviceBus":"r", "consumer": "green"},
+                            {"serviceBus":"m", "consumer": "grey"}
+                        ]}, 
+                        {"name":"Digital Workplace", "state":"green", "io": [
+                            {"serviceBus":"r", "consumer": "green"},
+                            {"serviceBus":"s", "consumer": "green"},
+                            {"serviceBus":"m", "consumer": "grey"}
+                        ]},
+                        {"name":"RPA (Robotics)", "state":"yellow", "io": [
+                        ]}
+                    ]}
+                ]
+        },
+        {
+            "name":"Core IT",
+            "opacity":0.8,
+            "dpe": [
+                {
+                    "name": "VMWare ESX",
+                    "details": "(Windows, RHEL)", 
+                    "rte": [ 
+                        {"name":"Java (JEE@JET)", "eol": "31.12.2019", "state":"yellow", "x": -1, "io": [
+                            {"serviceBus":"r", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"s", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"f", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"m", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"c", "consumer": "red"}
+                        ]}, 
+                        {"name":".NET", "eol": "31.12.2019", "state":"yellow", "io": [
+                            {"serviceBus":"r", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"s", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"f", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"m", "consumer": "green", "provider": "green"}
+                        ]}, 
+                        {"name":"Sharepoint", "eol": "31.12.2020","state":"yellow", "io": [
+                            {"serviceBus":"r", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"s", "consumer": "green", "provider": "green"}
+                        ]}, 
+                        {"name":"iWARP BPM Platform (Appway)", "state":"green", "io": [
+                            {"serviceBus":"r", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"s", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"f", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"m", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"c", "consumer": "red"}
+                        ]}
+                    ]},
+                    {
+                    "name": "Mainframe",
+                    "details": "(zseries, z/OS)", 
+                    "rte": [ 
+                        {"name":"IMS", "state":"yellow", "io": [
+                            {"serviceBus":"s", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"f", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"m", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"c", "provider": "red"}
+                        ]},  
+                        {"name":"CICS", "state":"yellow", "io": [
+                            {"serviceBus":"s", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"f", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"m", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"c", "provider": "red"}
+                        ]}  
+                    ]},
+                    {
+                    "name": "IBM iSeries",
+                    "details": "", 
+                    "rte": [ 
+                        {"name":"IBM i (COBOL)", "state":"red"}, 
+                        {"name":"leer", "state":"invisible"}
+                    ]}
+                ]
+        },
+        {
+            "name":"Private Cloud",
+            "opacity":0.6,
+            "dpe": [
+                {
+                    "name": "IaaS - BLS",
+                    "details": "(Windows, RHEL)", 
+                    "rte": [ 
+                        {"name":".NET", "state":"green", "io": [
+                            {"serviceBus":"r", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"s", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"f", "consumer": "blue", "provider": "blue"},
+                            {"serviceBus":"m", "consumer": "green", "provider": "green"}
+                        ]}, 
+                        {"name":"leer", "state":"invisible"}
+                    ]},
+                    {
+                    "name": "SAP BB4B",
+                    "details": " ", 
+                    "rte": [ 
+                        {"name":"SAP Business Module", "state":"green", "io": [
+                            {"serviceBus":"r", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"s", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"f", "consumer": "blue", "provider": "blue"},
+                            {"serviceBus":"m", "consumer": "grey", "provider": "grey"}
+                        ]},  
+                        {"name":"SAP BI/BW", "state":"green", "io": [
+                            {"serviceBus":"s", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"f", "consumer": "blue", "provider": "blue"},
+                            {"serviceBus":"m", "consumer": "grey", "provider": "grey"}
+                        ]}
+                    ]},
+                    {
+                    "name": "DataLake - DIL",
+                    "details": " ", 
+                    "rte": [ 
+                        {"name":"DataLake", "state":"blue", "io": [
+                            {"serviceBus":"r", "consumer": "blue", "provider": "blue"},
+                            {"serviceBus":"s", "consumer": "blue", "provider": "blue"},
+                            {"serviceBus":"f", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"m", "consumer": "grey", "provider": "grey"}
+                        ]},  
+                        {"name":"leer", "state":"invisible"}
+                    ]},
+                    {
+                    "name": "OpenPaaS/private",
+                    "details": "(OpenShift on BLS)", 
+                    "rte": [ 
+                        {"name":"Java (JBoss EAP, Spring)", "state":"blue", "io": [
+                            {"serviceBus":"r", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"s", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"f", "consumer": "blue", "provider": "blue"},
+                            {"serviceBus":"m", "consumer": "green", "provider": "green"}
+                        ]}, 
+                        {"name":"NodeJS", "state":"blue", "io": [
+                            {"serviceBus":"r", "consumer": "blue", "provider": "blue"},
+                            {"serviceBus":"s", "consumer": "blue", "provider": "blue"},
+                            {"serviceBus":"f", "consumer": "blue", "provider": "blue"},
+                            {"serviceBus":"m", "consumer": "grey", "provider": "grey"}
+                        ]},
+                        {"name":"Docker", "state":"blue", "io": [
+                            {"serviceBus":"r", "consumer": "grey", "provider": "grey"},
+                            {"serviceBus":"s", "consumer": "grey", "provider": "grey"},
+                            {"serviceBus":"f", "consumer": "blue", "provider": "blue"},
+                            {"serviceBus":"m", "consumer": "grey", "provider": "grey"}
+                        ]}, 
+                        {"name":"iWARP BPM Platform (Appway)", "state":"blue", "io": [
+                            {"serviceBus":"r", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"s", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"f", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"m", "consumer": "green", "provider": "green"}
+                        ]}
+                    ]}
+                ]
+        },
+        {
+            "name":"Managed Public Cloud",
+            "opacity":0.4,
+            "dpe": [
+                    {
+                    "name": "OpenPaaS/public",
+                    "details": "(OpenShift on AWS)", 
+                    "rte": [ 
+                        {"name":"Java (JBoss EAP, Spring)", "state":"green", "io": [
+                            {"serviceBus":"r", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"s", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"f", "consumer": "blue", "provider": "blue"}
+                        ]}, 
+                        {"name":"NodeJS", "state":"blue", "io": [
+                            {"serviceBus":"r", "consumer": "blue", "provider": "blue"},
+                            {"serviceBus":"s", "consumer": "blue", "provider": "blue"},
+                            {"serviceBus":"f", "consumer": "blue", "provider": "blue"}
+                        ]},
+                        {"name":"Docker", "state":"blue", "io": [
+                            {"serviceBus":"r", "consumer": "grey", "provider": "grey"},
+                            {"serviceBus":"s", "consumer": "grey", "provider": "grey"},
+                            {"serviceBus":"f", "consumer": "blue", "provider": "blue"}
+                        ]}, 
+                        {"name":"SaaS (AWS SaaS Services)", "state":"green", "io": [
+                            {"serviceBus":"r", "consumer": "grey", "provider": "grey"},
+                            {"serviceBus":"s", "consumer": "grey", "provider": "grey"},
+                            {"serviceBus":"f", "consumer": "grey", "provider": "grey"}
+                        ]}
+                    ]},
+                    {
+                    "name": "AzurePaaS",
+                    "details": "Azure", 
+                    "rte": [ 
+                        {"name":".NET", "state":"green", "io": [
+                            {"serviceBus":"r", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"s", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"f", "consumer": "blue", "provider": "blue"}
+                        ]},  
+                        {"name":"NodeJS", "state":"red", "io": [
+                            {"serviceBus":"r", "consumer": "green", "provider": "green"},
+                            {"serviceBus":"s", "consumer": "blue", "provider": "blue"},
+                            {"serviceBus":"f", "consumer": "blue", "provider": "blue"}
+                        ]}, 
+                        {"name":"SaaS (Azure SaaS Services)", "state":"green", "io": [
+                            {"serviceBus":"r", "consumer": "grey", "provider": "grey"},
+                            {"serviceBus":"s", "consumer": "grey", "provider": "grey"},
+                            {"serviceBus":"f", "consumer": "grey", "provider": "grey"}
+                        ]}, 
+                        {"name":"leer", "state":"invisible"}
+                    ]}
+                ]
+        },
+        {
+            "name":"Public Cloud",
+            "opacity":0.2,
+            "dpe": [
+                {
+                    "name": "Partially Known",
+                    "details": " ", 
+                    "rte": [ 
+                        {"name":"SaaS", "state":"green", "io": [
+                            {"serviceBus":"r", "consumer": "grey", "provider": "grey"},
+                            {"serviceBus":"s", "consumer": "grey", "provider": "grey"},
+                            {"serviceBus":"f", "consumer": "grey", "provider": "grey"}
+                        ]}, 
+                        {"name":"Office365", "state":"green", "io": [
+                            {"serviceBus":"r", "consumer": "grey", "provider": "grey"},
+                            {"serviceBus":"s", "consumer": "grey", "provider": "grey"}
+                        ]}
+                    ]},
+                    {
+                    "name": "Unknown",
+                    "details": " ", 
+                    "rte": [ 
+                        {"name":"SaaS", "state":"green", "io": [
+                            {"serviceBus":"r", "consumer": "grey", "provider": "grey"},
+                            {"serviceBus":"s", "consumer": "grey", "provider": "grey"},
+                            {"serviceBus":"f", "consumer": "grey", "provider": "grey"}
+                        ]}, 
+                        {"name":"leer", "state":"invisible"}
+                    ]}
+                ]
+        }
+    ],
+    "infraCS" : [
+        {"name" : "Datastores, Databases, ..."},
+        {"name" : "Security: IAM, Authentication, Autorization, ..."},
+        {"name" : "Communication: E-Mail, SMS, Chat, ..."},
+        {"name" : "Integration"}
+    ],
+    "appCS" : [
+        {"name" : "Business Rules"},
+        {"name" : "ECM: CA, CM, CD"},
+        {"name" : "Workload Balancing"}
+    ],
+    "serviceBus" : [
+        {"name": "CORBA", "id": "c", "y": -1},
+        {"name": "MQ-Series", "id": "m"},
+        {"name": "File Transfer", "id": "f"},
+        {"name": "SOAP", "id": "s"},
+        {"name": "REST", "id": "r"}
+    ]
+    }
+}

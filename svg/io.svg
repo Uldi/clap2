@@ -1,0 +1,1289 @@
+<svg viewBox="0 0 8890 7200" preserveAspectRatio="xMidYMid">
+    <defs>
+        <linearGradient id="serviceBus_gradient" x2="0" y2="1">
+         <stop stop-color="#0000bf" offset="0"/>
+         <stop stop-color="#aad4ff" offset="0.25"/>
+         <stop stop-color="#aad4ff" offset="0.75"/>
+         <stop stop-color="#0000bf" offset="1"/>
+        </linearGradient>
+    </defs>
+ 
+    <!-- generated: RTE SPA, Native/Hybrid App  -->
+    <rect x="1025" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(200,200,200);fill-opacity:0.502;stroke:rgb(100,100,100);stroke-width:10;opacity:1.0" />
+    <text x="1055" y="220" transform="rotate(-90 1155,220)" fill="rgb(75,145,175)" 
+        font-family="Arial, sans-serif" font-size="150px" text-anchor="end">SPA, Native/Hybrid App</text>
+ 
+    <!-- generated: RTE Digital Workplace  -->
+    <rect x="1230" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(200,200,200);fill-opacity:0.502;stroke:rgb(100,100,100);stroke-width:10;opacity:1.0" />
+    <text x="1260" y="220" transform="rotate(-90 1360,220)" fill="rgb(75,145,175)" 
+        font-family="Arial, sans-serif" font-size="150px" text-anchor="end">Digital Workplace</text>
+ 
+    <!-- generated: RTE RPA (Robotics)  -->
+    <rect x="1435" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(200,200,200);fill-opacity:0.502;stroke:rgb(100,100,100);stroke-width:10;opacity:1.0" />
+    <text x="1465" y="220" transform="rotate(-90 1565,220)" fill="rgb(75,145,175)" 
+        font-family="Arial, sans-serif" font-size="150px" text-anchor="end">RPA (Robotics)</text>
+
+    <line x1="1690" y1="150" x2="1690" y2="4850" stroke-dasharray="25, 15" style="stroke:grey;stroke-width:10" />
+
+    <!-- generated: DPE Cloud Box Client -->
+    <rect x="1025" y="5000" rx="50" ry="50" width="615" height="2000"
+        style="fill:rgb(182,144,73);fill-opacity:0.8;stroke:rgb(134,106,54);stroke-width:20;opacity:1.0" />
+    <text x="1045" y="5200" fill="white" font-family="Arial, sans-serif" font-size="150px" >Client</text>
+ 
+    <!-- generated: RTE Java (JEE@JET)  -->
+    <rect x="1765" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(200,200,200);fill-opacity:0.502;stroke:rgb(100,100,100);stroke-width:10;opacity:1.0" />
+    <text x="1795" y="220" transform="rotate(-90 1895,220)" fill="rgb(75,145,175)" 
+        font-family="Arial, sans-serif" font-size="150px" text-anchor="end">Java (JEE@JET)</text>
+ 
+    <!-- generated: RTE .NET  -->
+    <rect x="1970" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(200,200,200);fill-opacity:0.502;stroke:rgb(100,100,100);stroke-width:10;opacity:1.0" />
+    <text x="2000" y="220" transform="rotate(-90 2100,220)" fill="rgb(75,145,175)" 
+        font-family="Arial, sans-serif" font-size="150px" text-anchor="end">.NET</text>
+ 
+    <!-- generated: RTE Sharepoint  -->
+    <rect x="2175" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(200,200,200);fill-opacity:0.502;stroke:rgb(100,100,100);stroke-width:10;opacity:1.0" />
+    <text x="2205" y="220" transform="rotate(-90 2305,220)" fill="rgb(75,145,175)" 
+        font-family="Arial, sans-serif" font-size="150px" text-anchor="end">Sharepoint</text>
+ 
+    <!-- generated: RTE iWARP BPM Platform (Appway)  -->
+    <rect x="2380" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(200,200,200);fill-opacity:0.502;stroke:rgb(100,100,100);stroke-width:10;opacity:1.0" />
+    <text x="2410" y="220" transform="rotate(-90 2510,220)" fill="rgb(75,145,175)" 
+        font-family="Arial, sans-serif" font-size="150px" text-anchor="end">iWARP BPM Platform (Appway)</text>
+
+    <line x1="2610" y1="150" x2="2610" y2="4850" stroke-dasharray="25, 15" style="stroke:grey;stroke-width:10" />
+ 
+    <!-- generated: RTE IMS  -->
+    <rect x="2660" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(200,200,200);fill-opacity:0.502;stroke:rgb(100,100,100);stroke-width:10;opacity:1.0" />
+    <text x="2690" y="220" transform="rotate(-90 2790,220)" fill="rgb(75,145,175)" 
+        font-family="Arial, sans-serif" font-size="150px" text-anchor="end">IMS</text>
+ 
+    <!-- generated: RTE CICS  -->
+    <rect x="2865" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(200,200,200);fill-opacity:0.502;stroke:rgb(100,100,100);stroke-width:10;opacity:1.0" />
+    <text x="2895" y="220" transform="rotate(-90 2995,220)" fill="rgb(75,145,175)" 
+        font-family="Arial, sans-serif" font-size="150px" text-anchor="end">CICS</text>
+
+    <line x1="3095" y1="150" x2="3095" y2="4850" stroke-dasharray="25, 15" style="stroke:grey;stroke-width:10" />
+ 
+    <!-- generated: RTE IBM i (COBOL)  -->
+    <rect x="3145" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(200,200,200);fill-opacity:0.502;stroke:rgb(100,100,100);stroke-width:10;opacity:1.0" />
+    <text x="3175" y="220" transform="rotate(-90 3275,220)" fill="rgb(75,145,175)" 
+        font-family="Arial, sans-serif" font-size="150px" text-anchor="end">IBM i (COBOL)</text>
+
+    <line x1="3605" y1="150" x2="3605" y2="4850" stroke-dasharray="25, 15" style="stroke:grey;stroke-width:10" />
+
+    <!-- generated: DPE Cloud Box Core IT -->
+    <rect x="1765" y="5000" rx="50" ry="50" width="1790" height="2000"
+        style="fill:rgb(182,144,73);fill-opacity:0.8;stroke:rgb(134,106,54);stroke-width:20;opacity:1.0" />
+    <text x="1785" y="5200" fill="white" font-family="Arial, sans-serif" font-size="150px" >Core IT</text>
+ 
+    <!-- generated: RTE .NET  -->
+    <rect x="3680" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(200,200,200);fill-opacity:0.502;stroke:rgb(100,100,100);stroke-width:10;opacity:1.0" />
+    <text x="3710" y="220" transform="rotate(-90 3810,220)" fill="rgb(75,145,175)" 
+        font-family="Arial, sans-serif" font-size="150px" text-anchor="end">.NET</text>
+
+    <line x1="4115" y1="150" x2="4115" y2="4850" stroke-dasharray="25, 15" style="stroke:grey;stroke-width:10" />
+ 
+    <!-- generated: RTE SAP Business Module  -->
+    <rect x="4165" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(200,200,200);fill-opacity:0.502;stroke:rgb(100,100,100);stroke-width:10;opacity:1.0" />
+    <text x="4195" y="220" transform="rotate(-90 4295,220)" fill="rgb(75,145,175)" 
+        font-family="Arial, sans-serif" font-size="150px" text-anchor="end">SAP Business Module</text>
+ 
+    <!-- generated: RTE SAP BI/BW  -->
+    <rect x="4370" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(200,200,200);fill-opacity:0.502;stroke:rgb(100,100,100);stroke-width:10;opacity:1.0" />
+    <text x="4400" y="220" transform="rotate(-90 4500,220)" fill="rgb(75,145,175)" 
+        font-family="Arial, sans-serif" font-size="150px" text-anchor="end">SAP BI/BW</text>
+
+    <line x1="4600" y1="150" x2="4600" y2="4850" stroke-dasharray="25, 15" style="stroke:grey;stroke-width:10" />
+ 
+    <!-- generated: RTE DataLake  -->
+    <rect x="4650" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(200,200,200);fill-opacity:0.502;stroke:rgb(100,100,100);stroke-width:10;opacity:1.0" />
+    <text x="4680" y="220" transform="rotate(-90 4780,220)" fill="rgb(75,145,175)" 
+        font-family="Arial, sans-serif" font-size="150px" text-anchor="end">DataLake</text>
+
+    <line x1="5085" y1="150" x2="5085" y2="4850" stroke-dasharray="25, 15" style="stroke:grey;stroke-width:10" />
+ 
+    <!-- generated: RTE Java (JBoss EAP, Spring)  -->
+    <rect x="5135" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(200,200,200);fill-opacity:0.502;stroke:rgb(100,100,100);stroke-width:10;opacity:1.0" />
+    <text x="5165" y="220" transform="rotate(-90 5265,220)" fill="rgb(75,145,175)" 
+        font-family="Arial, sans-serif" font-size="150px" text-anchor="end">Java (JBoss EAP, Spring)</text>
+ 
+    <!-- generated: RTE NodeJS  -->
+    <rect x="5340" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(200,200,200);fill-opacity:0.502;stroke:rgb(100,100,100);stroke-width:10;opacity:1.0" />
+    <text x="5370" y="220" transform="rotate(-90 5470,220)" fill="rgb(75,145,175)" 
+        font-family="Arial, sans-serif" font-size="150px" text-anchor="end">NodeJS</text>
+ 
+    <!-- generated: RTE Docker  -->
+    <rect x="5545" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(200,200,200);fill-opacity:0.502;stroke:rgb(100,100,100);stroke-width:10;opacity:1.0" />
+    <text x="5575" y="220" transform="rotate(-90 5675,220)" fill="rgb(75,145,175)" 
+        font-family="Arial, sans-serif" font-size="150px" text-anchor="end">Docker</text>
+ 
+    <!-- generated: RTE iWARP BPM Platform (Appway)  -->
+    <rect x="5750" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(200,200,200);fill-opacity:0.502;stroke:rgb(100,100,100);stroke-width:10;opacity:1.0" />
+    <text x="5780" y="220" transform="rotate(-90 5880,220)" fill="rgb(75,145,175)" 
+        font-family="Arial, sans-serif" font-size="150px" text-anchor="end">iWARP BPM Platform (Appway)</text>
+
+    <line x1="6005" y1="150" x2="6005" y2="4850" stroke-dasharray="25, 15" style="stroke:grey;stroke-width:10" />
+
+    <!-- generated: DPE Cloud Box Private Cloud -->
+    <rect x="3680" y="5000" rx="50" ry="50" width="2275" height="2000"
+        style="fill:rgb(182,144,73);fill-opacity:0.6;stroke:rgb(134,106,54);stroke-width:20;opacity:1.0" />
+    <text x="3700" y="5200" fill="white" font-family="Arial, sans-serif" font-size="150px" >Private Cloud</text>
+ 
+    <!-- generated: RTE Java (JBoss EAP, Spring)  -->
+    <rect x="6080" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(200,200,200);fill-opacity:0.502;stroke:rgb(100,100,100);stroke-width:10;opacity:1.0" />
+    <text x="6110" y="220" transform="rotate(-90 6210,220)" fill="rgb(75,145,175)" 
+        font-family="Arial, sans-serif" font-size="150px" text-anchor="end">Java (JBoss EAP, Spring)</text>
+ 
+    <!-- generated: RTE NodeJS  -->
+    <rect x="6285" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(200,200,200);fill-opacity:0.502;stroke:rgb(100,100,100);stroke-width:10;opacity:1.0" />
+    <text x="6315" y="220" transform="rotate(-90 6415,220)" fill="rgb(75,145,175)" 
+        font-family="Arial, sans-serif" font-size="150px" text-anchor="end">NodeJS</text>
+ 
+    <!-- generated: RTE Docker  -->
+    <rect x="6490" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(200,200,200);fill-opacity:0.502;stroke:rgb(100,100,100);stroke-width:10;opacity:1.0" />
+    <text x="6520" y="220" transform="rotate(-90 6620,220)" fill="rgb(75,145,175)" 
+        font-family="Arial, sans-serif" font-size="150px" text-anchor="end">Docker</text>
+ 
+    <!-- generated: RTE SaaS (AWS SaaS Services)  -->
+    <rect x="6695" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(200,200,200);fill-opacity:0.502;stroke:rgb(100,100,100);stroke-width:10;opacity:1.0" />
+    <text x="6725" y="220" transform="rotate(-90 6825,220)" fill="rgb(75,145,175)" 
+        font-family="Arial, sans-serif" font-size="150px" text-anchor="end">SaaS (AWS SaaS Services)</text>
+
+    <line x1="6925" y1="150" x2="6925" y2="4850" stroke-dasharray="25, 15" style="stroke:grey;stroke-width:10" />
+ 
+    <!-- generated: RTE .NET  -->
+    <rect x="6975" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(200,200,200);fill-opacity:0.502;stroke:rgb(100,100,100);stroke-width:10;opacity:1.0" />
+    <text x="7005" y="220" transform="rotate(-90 7105,220)" fill="rgb(75,145,175)" 
+        font-family="Arial, sans-serif" font-size="150px" text-anchor="end">.NET</text>
+ 
+    <!-- generated: RTE NodeJS  -->
+    <rect x="7180" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(200,200,200);fill-opacity:0.502;stroke:rgb(100,100,100);stroke-width:10;opacity:1.0" />
+    <text x="7210" y="220" transform="rotate(-90 7310,220)" fill="rgb(75,145,175)" 
+        font-family="Arial, sans-serif" font-size="150px" text-anchor="end">NodeJS</text>
+ 
+    <!-- generated: RTE SaaS (Azure SaaS Services)  -->
+    <rect x="7385" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(200,200,200);fill-opacity:0.502;stroke:rgb(100,100,100);stroke-width:10;opacity:1.0" />
+    <text x="7415" y="220" transform="rotate(-90 7515,220)" fill="rgb(75,145,175)" 
+        font-family="Arial, sans-serif" font-size="150px" text-anchor="end">SaaS (Azure SaaS Services)</text>
+
+    <line x1="7845" y1="150" x2="7845" y2="4850" stroke-dasharray="25, 15" style="stroke:grey;stroke-width:10" />
+
+    <!-- generated: DPE Cloud Box Managed Public Cloud -->
+    <rect x="6080" y="5000" rx="50" ry="50" width="1715" height="2000"
+        style="fill:rgb(182,144,73);fill-opacity:0.4;stroke:rgb(134,106,54);stroke-width:20;opacity:1.0" />
+    <text x="6100" y="5200" fill="white" font-family="Arial, sans-serif" font-size="150px" >Managed Public Cloud</text>
+ 
+    <!-- generated: RTE SaaS  -->
+    <rect x="7920" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(200,200,200);fill-opacity:0.502;stroke:rgb(100,100,100);stroke-width:10;opacity:1.0" />
+    <text x="7950" y="220" transform="rotate(-90 8050,220)" fill="rgb(75,145,175)" 
+        font-family="Arial, sans-serif" font-size="150px" text-anchor="end">SaaS</text>
+ 
+    <!-- generated: RTE Office365  -->
+    <rect x="8125" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(200,200,200);fill-opacity:0.502;stroke:rgb(100,100,100);stroke-width:10;opacity:1.0" />
+    <text x="8155" y="220" transform="rotate(-90 8255,220)" fill="rgb(75,145,175)" 
+        font-family="Arial, sans-serif" font-size="150px" text-anchor="end">Office365</text>
+
+    <line x1="8355" y1="150" x2="8355" y2="4850" stroke-dasharray="25, 15" style="stroke:grey;stroke-width:10" />
+ 
+    <!-- generated: RTE SaaS  -->
+    <rect x="8405" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(200,200,200);fill-opacity:0.502;stroke:rgb(100,100,100);stroke-width:10;opacity:1.0" />
+    <text x="8435" y="220" transform="rotate(-90 8535,220)" fill="rgb(75,145,175)" 
+        font-family="Arial, sans-serif" font-size="150px" text-anchor="end">SaaS</text>
+
+    <!-- generated: DPE Cloud Box Public Cloud -->
+    <rect x="7920" y="5000" rx="50" ry="50" width="895" height="2000"
+        style="fill:rgb(182,144,73);fill-opacity:0.2;stroke:rgb(134,106,54);stroke-width:20;opacity:1.0" />
+    <text x="7940" y="5200" fill="white" font-family="Arial, sans-serif" font-size="150px" >Public Cloud</text>
+    
+    <!-- DPE Instanz -->
+    <!-- rect center w:750 h:1400  rgb(182,144,73)  rgb(226,211,182)-->
+    <path fill="rgb(235,220,190)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 1075,5400 L 1540,5400 1540,6900 1075,6900 1075,5400 Z"/>
+    <!-- rect rechts w:100 h:100  rgb(152,120,61)-->
+    <path fill="rgb(200,170,100)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 1540,5400 L 1590,5300 1590,6850 1540,6900 1540,5400 Z"/>
+    <!-- rect oben w:100 h:100 rgb(243,192,97)-->  
+    <path fill="rgb(226,211,182)" fill-opacity="1.0" stroke="rgb(134,106,54)"  stroke-width="10" stroke-linejoin="round" d="M 1075,5400 L 1145,5300 1590,5300 1540,5400 1075,5400 Z"/>
+
+    <text x="1125" y="6700" transform="rotate(-90 1225,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="150px">Client Device</text>
+    <text x="1245" y="6700" transform="rotate(-90 1345,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="100px"></text>
+    
+    <!-- DPE Instanz -->
+    <!-- rect center w:750 h:1400  rgb(182,144,73)  rgb(226,211,182)-->
+    <path fill="rgb(235,220,190)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 1815,5400 L 2535,5400 2535,6900 1815,6900 1815,5400 Z"/>
+    <!-- rect rechts w:100 h:100  rgb(152,120,61)-->
+    <path fill="rgb(200,170,100)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 2535,5400 L 2585,5300 2585,6850 2535,6900 2535,5400 Z"/>
+    <!-- rect oben w:100 h:100 rgb(243,192,97)-->  
+    <path fill="rgb(226,211,182)" fill-opacity="1.0" stroke="rgb(134,106,54)"  stroke-width="10" stroke-linejoin="round" d="M 1815,5400 L 1885,5300 2585,5300 2535,5400 1815,5400 Z"/>
+
+    <text x="1865" y="6700" transform="rotate(-90 1965,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="150px">VMWare ESX</text>
+    <text x="1985" y="6700" transform="rotate(-90 2085,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="100px">(Windows, RHEL)</text>
+    
+    <!-- DPE Instanz -->
+    <!-- rect center w:750 h:1400  rgb(182,144,73)  rgb(226,211,182)-->
+    <path fill="rgb(235,220,190)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 2660,5400 L 3020,5400 3020,6900 2660,6900 2660,5400 Z"/>
+    <!-- rect rechts w:100 h:100  rgb(152,120,61)-->
+    <path fill="rgb(200,170,100)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 3020,5400 L 3070,5300 3070,6850 3020,6900 3020,5400 Z"/>
+    <!-- rect oben w:100 h:100 rgb(243,192,97)-->  
+    <path fill="rgb(226,211,182)" fill-opacity="1.0" stroke="rgb(134,106,54)"  stroke-width="10" stroke-linejoin="round" d="M 2660,5400 L 2730,5300 3070,5300 3020,5400 2660,5400 Z"/>
+
+    <text x="2710" y="6700" transform="rotate(-90 2810,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="150px">Mainframe</text>
+    <text x="2830" y="6700" transform="rotate(-90 2930,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="100px">(zseries, z/OS)</text>
+    
+    <!-- DPE Instanz -->
+    <!-- rect center w:750 h:1400  rgb(182,144,73)  rgb(226,211,182)-->
+    <path fill="rgb(235,220,190)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 3145,5400 L 3455,5400 3455,6900 3145,6900 3145,5400 Z"/>
+    <!-- rect rechts w:100 h:100  rgb(152,120,61)-->
+    <path fill="rgb(200,170,100)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 3455,5400 L 3505,5300 3505,6850 3455,6900 3455,5400 Z"/>
+    <!-- rect oben w:100 h:100 rgb(243,192,97)-->  
+    <path fill="rgb(226,211,182)" fill-opacity="1.0" stroke="rgb(134,106,54)"  stroke-width="10" stroke-linejoin="round" d="M 3145,5400 L 3215,5300 3505,5300 3455,5400 3145,5400 Z"/>
+
+    <text x="3195" y="6700" transform="rotate(-90 3295,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="150px">IBM iSeries</text>
+    <text x="3315" y="6700" transform="rotate(-90 3415,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="100px"></text>
+    
+    <!-- DPE Instanz -->
+    <!-- rect center w:750 h:1400  rgb(182,144,73)  rgb(226,211,182)-->
+    <path fill="rgb(235,220,190)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 3730,5400 L 4040,5400 4040,6900 3730,6900 3730,5400 Z"/>
+    <!-- rect rechts w:100 h:100  rgb(152,120,61)-->
+    <path fill="rgb(200,170,100)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 4040,5400 L 4090,5300 4090,6850 4040,6900 4040,5400 Z"/>
+    <!-- rect oben w:100 h:100 rgb(243,192,97)-->  
+    <path fill="rgb(226,211,182)" fill-opacity="1.0" stroke="rgb(134,106,54)"  stroke-width="10" stroke-linejoin="round" d="M 3730,5400 L 3800,5300 4090,5300 4040,5400 3730,5400 Z"/>
+
+    <text x="3780" y="6700" transform="rotate(-90 3880,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="150px">IaaS - BLS</text>
+    <text x="3900" y="6700" transform="rotate(-90 4000,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="100px">(Windows, RHEL)</text>
+    
+    <!-- DPE Instanz -->
+    <!-- rect center w:750 h:1400  rgb(182,144,73)  rgb(226,211,182)-->
+    <path fill="rgb(235,220,190)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 4165,5400 L 4525,5400 4525,6900 4165,6900 4165,5400 Z"/>
+    <!-- rect rechts w:100 h:100  rgb(152,120,61)-->
+    <path fill="rgb(200,170,100)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 4525,5400 L 4575,5300 4575,6850 4525,6900 4525,5400 Z"/>
+    <!-- rect oben w:100 h:100 rgb(243,192,97)-->  
+    <path fill="rgb(226,211,182)" fill-opacity="1.0" stroke="rgb(134,106,54)"  stroke-width="10" stroke-linejoin="round" d="M 4165,5400 L 4235,5300 4575,5300 4525,5400 4165,5400 Z"/>
+
+    <text x="4215" y="6700" transform="rotate(-90 4315,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="150px">SAP BB4B</text>
+    <text x="4335" y="6700" transform="rotate(-90 4435,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="100px"> </text>
+    
+    <!-- DPE Instanz -->
+    <!-- rect center w:750 h:1400  rgb(182,144,73)  rgb(226,211,182)-->
+    <path fill="rgb(235,220,190)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 4650,5400 L 5010,5400 5010,6900 4650,6900 4650,5400 Z"/>
+    <!-- rect rechts w:100 h:100  rgb(152,120,61)-->
+    <path fill="rgb(200,170,100)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 5010,5400 L 5060,5300 5060,6850 5010,6900 5010,5400 Z"/>
+    <!-- rect oben w:100 h:100 rgb(243,192,97)-->  
+    <path fill="rgb(226,211,182)" fill-opacity="1.0" stroke="rgb(134,106,54)"  stroke-width="10" stroke-linejoin="round" d="M 4650,5400 L 4720,5300 5060,5300 5010,5400 4650,5400 Z"/>
+
+    <text x="4700" y="6700" transform="rotate(-90 4800,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="150px">DataLake - DIL</text>
+    <text x="4820" y="6700" transform="rotate(-90 4920,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="100px"> </text>
+    
+    <!-- DPE Instanz -->
+    <!-- rect center w:750 h:1400  rgb(182,144,73)  rgb(226,211,182)-->
+    <path fill="rgb(235,220,190)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 5135,5400 L 5855,5400 5855,6900 5135,6900 5135,5400 Z"/>
+    <!-- rect rechts w:100 h:100  rgb(152,120,61)-->
+    <path fill="rgb(200,170,100)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 5855,5400 L 5905,5300 5905,6850 5855,6900 5855,5400 Z"/>
+    <!-- rect oben w:100 h:100 rgb(243,192,97)-->  
+    <path fill="rgb(226,211,182)" fill-opacity="1.0" stroke="rgb(134,106,54)"  stroke-width="10" stroke-linejoin="round" d="M 5135,5400 L 5205,5300 5905,5300 5855,5400 5135,5400 Z"/>
+
+    <text x="5185" y="6700" transform="rotate(-90 5285,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="150px">OpenPaaS/private</text>
+    <text x="5305" y="6700" transform="rotate(-90 5405,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="100px">(OpenShift on BLS)</text>
+    
+    <!-- DPE Instanz -->
+    <!-- rect center w:750 h:1400  rgb(182,144,73)  rgb(226,211,182)-->
+    <path fill="rgb(235,220,190)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 6130,5400 L 6850,5400 6850,6900 6130,6900 6130,5400 Z"/>
+    <!-- rect rechts w:100 h:100  rgb(152,120,61)-->
+    <path fill="rgb(200,170,100)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 6850,5400 L 6900,5300 6900,6850 6850,6900 6850,5400 Z"/>
+    <!-- rect oben w:100 h:100 rgb(243,192,97)-->  
+    <path fill="rgb(226,211,182)" fill-opacity="1.0" stroke="rgb(134,106,54)"  stroke-width="10" stroke-linejoin="round" d="M 6130,5400 L 6200,5300 6900,5300 6850,5400 6130,5400 Z"/>
+
+    <text x="6180" y="6700" transform="rotate(-90 6280,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="150px">OpenPaaS/public</text>
+    <text x="6300" y="6700" transform="rotate(-90 6400,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="100px">(OpenShift on AWS)</text>
+    
+    <!-- DPE Instanz -->
+    <!-- rect center w:750 h:1400  rgb(182,144,73)  rgb(226,211,182)-->
+    <path fill="rgb(235,220,190)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 6975,5400 L 7695,5400 7695,6900 6975,6900 6975,5400 Z"/>
+    <!-- rect rechts w:100 h:100  rgb(152,120,61)-->
+    <path fill="rgb(200,170,100)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 7695,5400 L 7745,5300 7745,6850 7695,6900 7695,5400 Z"/>
+    <!-- rect oben w:100 h:100 rgb(243,192,97)-->  
+    <path fill="rgb(226,211,182)" fill-opacity="1.0" stroke="rgb(134,106,54)"  stroke-width="10" stroke-linejoin="round" d="M 6975,5400 L 7045,5300 7745,5300 7695,5400 6975,5400 Z"/>
+
+    <text x="7025" y="6700" transform="rotate(-90 7125,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="150px">AzurePaaS</text>
+    <text x="7145" y="6700" transform="rotate(-90 7245,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="100px">Azure</text>
+    
+    <!-- DPE Instanz -->
+    <!-- rect center w:750 h:1400  rgb(182,144,73)  rgb(226,211,182)-->
+    <path fill="rgb(235,220,190)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 7970,5400 L 8280,5400 8280,6900 7970,6900 7970,5400 Z"/>
+    <!-- rect rechts w:100 h:100  rgb(152,120,61)-->
+    <path fill="rgb(200,170,100)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 8280,5400 L 8330,5300 8330,6850 8280,6900 8280,5400 Z"/>
+    <!-- rect oben w:100 h:100 rgb(243,192,97)-->  
+    <path fill="rgb(226,211,182)" fill-opacity="1.0" stroke="rgb(134,106,54)"  stroke-width="10" stroke-linejoin="round" d="M 7970,5400 L 8040,5300 8330,5300 8280,5400 7970,5400 Z"/>
+
+    <text x="8020" y="6700" transform="rotate(-90 8120,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="150px">Partially Known</text>
+    <text x="8140" y="6700" transform="rotate(-90 8240,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="100px"> </text>
+    
+    <!-- DPE Instanz -->
+    <!-- rect center w:750 h:1400  rgb(182,144,73)  rgb(226,211,182)-->
+    <path fill="rgb(235,220,190)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 8405,5400 L 8715,5400 8715,6900 8405,6900 8405,5400 Z"/>
+    <!-- rect rechts w:100 h:100  rgb(152,120,61)-->
+    <path fill="rgb(200,170,100)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 8715,5400 L 8765,5300 8765,6850 8715,6900 8715,5400 Z"/>
+    <!-- rect oben w:100 h:100 rgb(243,192,97)-->  
+    <path fill="rgb(226,211,182)" fill-opacity="1.0" stroke="rgb(134,106,54)"  stroke-width="10" stroke-linejoin="round" d="M 8405,5400 L 8475,5300 8765,5300 8715,5400 8405,5400 Z"/>
+
+    <text x="8455" y="6700" transform="rotate(-90 8555,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="150px">Unknown</text>
+    <text x="8575" y="6700" transform="rotate(-90 8675,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="100px"> </text>
+<!-- service bus CORBA - uses the serviceBus_gradient defined in the header.ejs -->
+    <rect x="50" y="4500" width="8790" height="250"
+        fill="url(#serviceBus_gradient)" style="fill-opacity:0.6;stroke:rgb(93,119,130);stroke-width:20;opacity:1.0" />
+    <text x="70" y="4680" fill="#005fbf" font-family="Arial, sans-serif" font-size="150px" >CORBA</text>
+
+<!-- service bus MQ-Series - uses the serviceBus_gradient defined in the header.ejs -->
+    <rect x="50" y="4200" width="8790" height="250"
+        fill="url(#serviceBus_gradient)" style="fill-opacity:0.6;stroke:rgb(93,119,130);stroke-width:20;opacity:1.0" />
+    <text x="70" y="4380" fill="#005fbf" font-family="Arial, sans-serif" font-size="150px" >MQ-Series</text>
+
+<!-- service bus File Transfer - uses the serviceBus_gradient defined in the header.ejs -->
+    <rect x="50" y="3900" width="8790" height="250"
+        fill="url(#serviceBus_gradient)" style="fill-opacity:0.6;stroke:rgb(93,119,130);stroke-width:20;opacity:1.0" />
+    <text x="70" y="4080" fill="#005fbf" font-family="Arial, sans-serif" font-size="150px" >File Transfer</text>
+
+<!-- service bus SOAP - uses the serviceBus_gradient defined in the header.ejs -->
+    <rect x="50" y="3600" width="8790" height="250"
+        fill="url(#serviceBus_gradient)" style="fill-opacity:0.6;stroke:rgb(93,119,130);stroke-width:20;opacity:1.0" />
+    <text x="70" y="3780" fill="#005fbf" font-family="Arial, sans-serif" font-size="150px" >SOAP</text>
+
+<!-- service bus REST - uses the serviceBus_gradient defined in the header.ejs -->
+    <rect x="50" y="3300" width="8790" height="250"
+        fill="url(#serviceBus_gradient)" style="fill-opacity:0.6;stroke:rgb(93,119,130);stroke-width:20;opacity:1.0" />
+    <text x="70" y="3480" fill="#005fbf" font-family="Arial, sans-serif" font-size="150px" >REST</text>
+
+
+    <!-- consumer icon -->
+    <line y2="3425" x2="1190" y1="3425" x1="1147" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 1110,3385 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="4325" x2="1190" y1="4325" x1="1147" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 1110,4285 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(150,150,150)" />
+
+    <!-- consumer icon -->
+    <line y2="3425" x2="1395" y1="3425" x1="1352" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 1315,3385 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="3725" x2="1395" y1="3725" x1="1352" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 1315,3685 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="4325" x2="1395" y1="4325" x1="1352" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 1315,4285 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(150,150,150)" />
+
+    <!-- provider icon -->
+    <line y2="3425" x2="1832" y1="3425" x1="1790" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="3425" cx="1850" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="3425" x2="1930" y1="3425" x1="1887" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 1850,3385 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="3725" x2="1832" y1="3725" x1="1790" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="3725" cx="1850" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="3725" x2="1930" y1="3725" x1="1887" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 1850,3685 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="4025" x2="1832" y1="4025" x1="1790" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="4025" cx="1850" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="4025" x2="1930" y1="4025" x1="1887" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 1850,3985 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="4325" x2="1832" y1="4325" x1="1790" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="4325" cx="1850" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="4325" x2="1930" y1="4325" x1="1887" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 1850,4285 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="4625" x2="1930" y1="4625" x1="1887" stroke-width="13" stroke="rgb(255,0,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 1850,4585 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(255,0,0)" />
+
+    <!-- provider icon -->
+    <line y2="3425" x2="2037" y1="3425" x1="1995" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="3425" cx="2055" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="3425" x2="2135" y1="3425" x1="2092" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 2055,3385 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="3725" x2="2037" y1="3725" x1="1995" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="3725" cx="2055" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="3725" x2="2135" y1="3725" x1="2092" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 2055,3685 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="4025" x2="2037" y1="4025" x1="1995" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="4025" cx="2055" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="4025" x2="2135" y1="4025" x1="2092" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 2055,3985 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="4325" x2="2037" y1="4325" x1="1995" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="4325" cx="2055" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="4325" x2="2135" y1="4325" x1="2092" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 2055,4285 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="3425" x2="2242" y1="3425" x1="2200" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="3425" cx="2260" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="3425" x2="2340" y1="3425" x1="2297" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 2260,3385 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="3725" x2="2242" y1="3725" x1="2200" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="3725" cx="2260" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="3725" x2="2340" y1="3725" x1="2297" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 2260,3685 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="3425" x2="2447" y1="3425" x1="2405" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="3425" cx="2465" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="3425" x2="2545" y1="3425" x1="2502" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 2465,3385 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="3725" x2="2447" y1="3725" x1="2405" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="3725" cx="2465" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="3725" x2="2545" y1="3725" x1="2502" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 2465,3685 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="4025" x2="2447" y1="4025" x1="2405" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="4025" cx="2465" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="4025" x2="2545" y1="4025" x1="2502" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 2465,3985 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="4325" x2="2447" y1="4325" x1="2405" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="4325" cx="2465" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="4325" x2="2545" y1="4325" x1="2502" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 2465,4285 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="4625" x2="2545" y1="4625" x1="2502" stroke-width="13" stroke="rgb(255,0,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 2465,4585 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(255,0,0)" />
+
+    <!-- provider icon -->
+    <line y2="3725" x2="2727" y1="3725" x1="2685" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="3725" cx="2745" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="3725" x2="2825" y1="3725" x1="2782" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 2745,3685 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="4025" x2="2727" y1="4025" x1="2685" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="4025" cx="2745" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="4025" x2="2825" y1="4025" x1="2782" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 2745,3985 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="4325" x2="2727" y1="4325" x1="2685" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="4325" cx="2745" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="4325" x2="2825" y1="4325" x1="2782" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 2745,4285 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="4625" x2="2727" y1="4625" x1="2685" stroke-width="13" stroke="rgb(255,0,0)" fill="none" />
+    <circle r="25" cy="4625" cx="2745" stroke-width="5" stroke="rgb(255,0,0)" fill="rgb(255,0,0)" />
+
+    <!-- provider icon -->
+    <line y2="3725" x2="2932" y1="3725" x1="2890" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="3725" cx="2950" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="3725" x2="3030" y1="3725" x1="2987" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 2950,3685 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="4025" x2="2932" y1="4025" x1="2890" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="4025" cx="2950" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="4025" x2="3030" y1="4025" x1="2987" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 2950,3985 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="4325" x2="2932" y1="4325" x1="2890" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="4325" cx="2950" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="4325" x2="3030" y1="4325" x1="2987" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 2950,4285 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="4625" x2="2932" y1="4625" x1="2890" stroke-width="13" stroke="rgb(255,0,0)" fill="none" />
+    <circle r="25" cy="4625" cx="2950" stroke-width="5" stroke="rgb(255,0,0)" fill="rgb(255,0,0)" />
+
+    <!-- provider icon -->
+    <line y2="3425" x2="3747" y1="3425" x1="3705" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="3425" cx="3765" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="3425" x2="3845" y1="3425" x1="3802" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 3765,3385 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="3725" x2="3747" y1="3725" x1="3705" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="3725" cx="3765" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="3725" x2="3845" y1="3725" x1="3802" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 3765,3685 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="4025" x2="3747" y1="4025" x1="3705" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <circle r="25" cy="4025" cx="3765" stroke-width="5" stroke="rgb(0,0,191)" fill="rgb(0,0,191)" />
+
+    <!-- consumer icon -->
+    <line y2="4025" x2="3845" y1="4025" x1="3802" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 3765,3985 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,0,191)" />
+
+    <!-- provider icon -->
+    <line y2="4325" x2="3747" y1="4325" x1="3705" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="4325" cx="3765" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="4325" x2="3845" y1="4325" x1="3802" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 3765,4285 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="3425" x2="4232" y1="3425" x1="4190" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="3425" cx="4250" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="3425" x2="4330" y1="3425" x1="4287" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 4250,3385 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="3725" x2="4232" y1="3725" x1="4190" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="3725" cx="4250" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="3725" x2="4330" y1="3725" x1="4287" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 4250,3685 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="4025" x2="4232" y1="4025" x1="4190" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <circle r="25" cy="4025" cx="4250" stroke-width="5" stroke="rgb(0,0,191)" fill="rgb(0,0,191)" />
+
+    <!-- consumer icon -->
+    <line y2="4025" x2="4330" y1="4025" x1="4287" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 4250,3985 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,0,191)" />
+
+    <!-- provider icon -->
+    <line y2="4325" x2="4232" y1="4325" x1="4190" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <circle r="25" cy="4325" cx="4250" stroke-width="5" stroke="rgb(150,150,150)" fill="rgb(150,150,150)" />
+
+    <!-- consumer icon -->
+    <line y2="4325" x2="4330" y1="4325" x1="4287" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 4250,4285 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(150,150,150)" />
+
+    <!-- provider icon -->
+    <line y2="3725" x2="4437" y1="3725" x1="4395" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="3725" cx="4455" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="3725" x2="4535" y1="3725" x1="4492" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 4455,3685 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="4025" x2="4437" y1="4025" x1="4395" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <circle r="25" cy="4025" cx="4455" stroke-width="5" stroke="rgb(0,0,191)" fill="rgb(0,0,191)" />
+
+    <!-- consumer icon -->
+    <line y2="4025" x2="4535" y1="4025" x1="4492" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 4455,3985 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,0,191)" />
+
+    <!-- provider icon -->
+    <line y2="4325" x2="4437" y1="4325" x1="4395" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <circle r="25" cy="4325" cx="4455" stroke-width="5" stroke="rgb(150,150,150)" fill="rgb(150,150,150)" />
+
+    <!-- consumer icon -->
+    <line y2="4325" x2="4535" y1="4325" x1="4492" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 4455,4285 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(150,150,150)" />
+
+    <!-- provider icon -->
+    <line y2="3425" x2="4717" y1="3425" x1="4675" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <circle r="25" cy="3425" cx="4735" stroke-width="5" stroke="rgb(0,0,191)" fill="rgb(0,0,191)" />
+
+    <!-- consumer icon -->
+    <line y2="3425" x2="4815" y1="3425" x1="4772" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 4735,3385 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,0,191)" />
+
+    <!-- provider icon -->
+    <line y2="3725" x2="4717" y1="3725" x1="4675" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <circle r="25" cy="3725" cx="4735" stroke-width="5" stroke="rgb(0,0,191)" fill="rgb(0,0,191)" />
+
+    <!-- consumer icon -->
+    <line y2="3725" x2="4815" y1="3725" x1="4772" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 4735,3685 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,0,191)" />
+
+    <!-- provider icon -->
+    <line y2="4025" x2="4717" y1="4025" x1="4675" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="4025" cx="4735" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="4025" x2="4815" y1="4025" x1="4772" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 4735,3985 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="4325" x2="4717" y1="4325" x1="4675" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <circle r="25" cy="4325" cx="4735" stroke-width="5" stroke="rgb(150,150,150)" fill="rgb(150,150,150)" />
+
+    <!-- consumer icon -->
+    <line y2="4325" x2="4815" y1="4325" x1="4772" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 4735,4285 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(150,150,150)" />
+
+    <!-- provider icon -->
+    <line y2="3425" x2="5202" y1="3425" x1="5160" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="3425" cx="5220" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="3425" x2="5300" y1="3425" x1="5257" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 5220,3385 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="3725" x2="5202" y1="3725" x1="5160" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="3725" cx="5220" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="3725" x2="5300" y1="3725" x1="5257" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 5220,3685 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="4025" x2="5202" y1="4025" x1="5160" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <circle r="25" cy="4025" cx="5220" stroke-width="5" stroke="rgb(0,0,191)" fill="rgb(0,0,191)" />
+
+    <!-- consumer icon -->
+    <line y2="4025" x2="5300" y1="4025" x1="5257" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 5220,3985 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,0,191)" />
+
+    <!-- provider icon -->
+    <line y2="4325" x2="5202" y1="4325" x1="5160" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="4325" cx="5220" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="4325" x2="5300" y1="4325" x1="5257" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 5220,4285 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="3425" x2="5407" y1="3425" x1="5365" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <circle r="25" cy="3425" cx="5425" stroke-width="5" stroke="rgb(0,0,191)" fill="rgb(0,0,191)" />
+
+    <!-- consumer icon -->
+    <line y2="3425" x2="5505" y1="3425" x1="5462" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 5425,3385 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,0,191)" />
+
+    <!-- provider icon -->
+    <line y2="3725" x2="5407" y1="3725" x1="5365" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <circle r="25" cy="3725" cx="5425" stroke-width="5" stroke="rgb(0,0,191)" fill="rgb(0,0,191)" />
+
+    <!-- consumer icon -->
+    <line y2="3725" x2="5505" y1="3725" x1="5462" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 5425,3685 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,0,191)" />
+
+    <!-- provider icon -->
+    <line y2="4025" x2="5407" y1="4025" x1="5365" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <circle r="25" cy="4025" cx="5425" stroke-width="5" stroke="rgb(0,0,191)" fill="rgb(0,0,191)" />
+
+    <!-- consumer icon -->
+    <line y2="4025" x2="5505" y1="4025" x1="5462" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 5425,3985 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,0,191)" />
+
+    <!-- provider icon -->
+    <line y2="4325" x2="5407" y1="4325" x1="5365" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <circle r="25" cy="4325" cx="5425" stroke-width="5" stroke="rgb(150,150,150)" fill="rgb(150,150,150)" />
+
+    <!-- consumer icon -->
+    <line y2="4325" x2="5505" y1="4325" x1="5462" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 5425,4285 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(150,150,150)" />
+
+    <!-- provider icon -->
+    <line y2="3425" x2="5612" y1="3425" x1="5570" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <circle r="25" cy="3425" cx="5630" stroke-width="5" stroke="rgb(150,150,150)" fill="rgb(150,150,150)" />
+
+    <!-- consumer icon -->
+    <line y2="3425" x2="5710" y1="3425" x1="5667" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 5630,3385 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(150,150,150)" />
+
+    <!-- provider icon -->
+    <line y2="3725" x2="5612" y1="3725" x1="5570" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <circle r="25" cy="3725" cx="5630" stroke-width="5" stroke="rgb(150,150,150)" fill="rgb(150,150,150)" />
+
+    <!-- consumer icon -->
+    <line y2="3725" x2="5710" y1="3725" x1="5667" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 5630,3685 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(150,150,150)" />
+
+    <!-- provider icon -->
+    <line y2="4025" x2="5612" y1="4025" x1="5570" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <circle r="25" cy="4025" cx="5630" stroke-width="5" stroke="rgb(0,0,191)" fill="rgb(0,0,191)" />
+
+    <!-- consumer icon -->
+    <line y2="4025" x2="5710" y1="4025" x1="5667" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 5630,3985 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,0,191)" />
+
+    <!-- provider icon -->
+    <line y2="4325" x2="5612" y1="4325" x1="5570" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <circle r="25" cy="4325" cx="5630" stroke-width="5" stroke="rgb(150,150,150)" fill="rgb(150,150,150)" />
+
+    <!-- consumer icon -->
+    <line y2="4325" x2="5710" y1="4325" x1="5667" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 5630,4285 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(150,150,150)" />
+
+    <!-- provider icon -->
+    <line y2="3425" x2="5817" y1="3425" x1="5775" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="3425" cx="5835" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="3425" x2="5915" y1="3425" x1="5872" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 5835,3385 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="3725" x2="5817" y1="3725" x1="5775" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="3725" cx="5835" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="3725" x2="5915" y1="3725" x1="5872" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 5835,3685 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="4025" x2="5817" y1="4025" x1="5775" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="4025" cx="5835" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="4025" x2="5915" y1="4025" x1="5872" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 5835,3985 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="4325" x2="5817" y1="4325" x1="5775" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="4325" cx="5835" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="4325" x2="5915" y1="4325" x1="5872" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 5835,4285 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="3425" x2="6147" y1="3425" x1="6105" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="3425" cx="6165" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="3425" x2="6245" y1="3425" x1="6202" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 6165,3385 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="3725" x2="6147" y1="3725" x1="6105" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="3725" cx="6165" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="3725" x2="6245" y1="3725" x1="6202" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 6165,3685 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="4025" x2="6147" y1="4025" x1="6105" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <circle r="25" cy="4025" cx="6165" stroke-width="5" stroke="rgb(0,0,191)" fill="rgb(0,0,191)" />
+
+    <!-- consumer icon -->
+    <line y2="4025" x2="6245" y1="4025" x1="6202" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 6165,3985 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,0,191)" />
+
+    <!-- provider icon -->
+    <line y2="3425" x2="6352" y1="3425" x1="6310" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <circle r="25" cy="3425" cx="6370" stroke-width="5" stroke="rgb(0,0,191)" fill="rgb(0,0,191)" />
+
+    <!-- consumer icon -->
+    <line y2="3425" x2="6450" y1="3425" x1="6407" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 6370,3385 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,0,191)" />
+
+    <!-- provider icon -->
+    <line y2="3725" x2="6352" y1="3725" x1="6310" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <circle r="25" cy="3725" cx="6370" stroke-width="5" stroke="rgb(0,0,191)" fill="rgb(0,0,191)" />
+
+    <!-- consumer icon -->
+    <line y2="3725" x2="6450" y1="3725" x1="6407" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 6370,3685 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,0,191)" />
+
+    <!-- provider icon -->
+    <line y2="4025" x2="6352" y1="4025" x1="6310" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <circle r="25" cy="4025" cx="6370" stroke-width="5" stroke="rgb(0,0,191)" fill="rgb(0,0,191)" />
+
+    <!-- consumer icon -->
+    <line y2="4025" x2="6450" y1="4025" x1="6407" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 6370,3985 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,0,191)" />
+
+    <!-- provider icon -->
+    <line y2="3425" x2="6557" y1="3425" x1="6515" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <circle r="25" cy="3425" cx="6575" stroke-width="5" stroke="rgb(150,150,150)" fill="rgb(150,150,150)" />
+
+    <!-- consumer icon -->
+    <line y2="3425" x2="6655" y1="3425" x1="6612" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 6575,3385 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(150,150,150)" />
+
+    <!-- provider icon -->
+    <line y2="3725" x2="6557" y1="3725" x1="6515" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <circle r="25" cy="3725" cx="6575" stroke-width="5" stroke="rgb(150,150,150)" fill="rgb(150,150,150)" />
+
+    <!-- consumer icon -->
+    <line y2="3725" x2="6655" y1="3725" x1="6612" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 6575,3685 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(150,150,150)" />
+
+    <!-- provider icon -->
+    <line y2="4025" x2="6557" y1="4025" x1="6515" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <circle r="25" cy="4025" cx="6575" stroke-width="5" stroke="rgb(0,0,191)" fill="rgb(0,0,191)" />
+
+    <!-- consumer icon -->
+    <line y2="4025" x2="6655" y1="4025" x1="6612" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 6575,3985 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,0,191)" />
+
+    <!-- provider icon -->
+    <line y2="3425" x2="6762" y1="3425" x1="6720" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <circle r="25" cy="3425" cx="6780" stroke-width="5" stroke="rgb(150,150,150)" fill="rgb(150,150,150)" />
+
+    <!-- consumer icon -->
+    <line y2="3425" x2="6860" y1="3425" x1="6817" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 6780,3385 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(150,150,150)" />
+
+    <!-- provider icon -->
+    <line y2="3725" x2="6762" y1="3725" x1="6720" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <circle r="25" cy="3725" cx="6780" stroke-width="5" stroke="rgb(150,150,150)" fill="rgb(150,150,150)" />
+
+    <!-- consumer icon -->
+    <line y2="3725" x2="6860" y1="3725" x1="6817" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 6780,3685 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(150,150,150)" />
+
+    <!-- provider icon -->
+    <line y2="4025" x2="6762" y1="4025" x1="6720" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <circle r="25" cy="4025" cx="6780" stroke-width="5" stroke="rgb(150,150,150)" fill="rgb(150,150,150)" />
+
+    <!-- consumer icon -->
+    <line y2="4025" x2="6860" y1="4025" x1="6817" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 6780,3985 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(150,150,150)" />
+
+    <!-- provider icon -->
+    <line y2="3425" x2="7042" y1="3425" x1="7000" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="3425" cx="7060" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="3425" x2="7140" y1="3425" x1="7097" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 7060,3385 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="3725" x2="7042" y1="3725" x1="7000" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="3725" cx="7060" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="3725" x2="7140" y1="3725" x1="7097" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 7060,3685 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="4025" x2="7042" y1="4025" x1="7000" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <circle r="25" cy="4025" cx="7060" stroke-width="5" stroke="rgb(0,0,191)" fill="rgb(0,0,191)" />
+
+    <!-- consumer icon -->
+    <line y2="4025" x2="7140" y1="4025" x1="7097" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 7060,3985 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,0,191)" />
+
+    <!-- provider icon -->
+    <line y2="3425" x2="7247" y1="3425" x1="7205" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <circle r="25" cy="3425" cx="7265" stroke-width="5" stroke="rgb(0,191,0)" fill="rgb(0,191,0)" />
+
+    <!-- consumer icon -->
+    <line y2="3425" x2="7345" y1="3425" x1="7302" stroke-width="13" stroke="rgb(0,191,0)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 7265,3385 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,191,0)" />
+
+    <!-- provider icon -->
+    <line y2="3725" x2="7247" y1="3725" x1="7205" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <circle r="25" cy="3725" cx="7265" stroke-width="5" stroke="rgb(0,0,191)" fill="rgb(0,0,191)" />
+
+    <!-- consumer icon -->
+    <line y2="3725" x2="7345" y1="3725" x1="7302" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 7265,3685 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,0,191)" />
+
+    <!-- provider icon -->
+    <line y2="4025" x2="7247" y1="4025" x1="7205" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <circle r="25" cy="4025" cx="7265" stroke-width="5" stroke="rgb(0,0,191)" fill="rgb(0,0,191)" />
+
+    <!-- consumer icon -->
+    <line y2="4025" x2="7345" y1="4025" x1="7302" stroke-width="13" stroke="rgb(0,0,191)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 7265,3985 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(0,0,191)" />
+
+    <!-- provider icon -->
+    <line y2="3425" x2="7452" y1="3425" x1="7410" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <circle r="25" cy="3425" cx="7470" stroke-width="5" stroke="rgb(150,150,150)" fill="rgb(150,150,150)" />
+
+    <!-- consumer icon -->
+    <line y2="3425" x2="7550" y1="3425" x1="7507" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 7470,3385 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(150,150,150)" />
+
+    <!-- provider icon -->
+    <line y2="3725" x2="7452" y1="3725" x1="7410" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <circle r="25" cy="3725" cx="7470" stroke-width="5" stroke="rgb(150,150,150)" fill="rgb(150,150,150)" />
+
+    <!-- consumer icon -->
+    <line y2="3725" x2="7550" y1="3725" x1="7507" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 7470,3685 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(150,150,150)" />
+
+    <!-- provider icon -->
+    <line y2="4025" x2="7452" y1="4025" x1="7410" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <circle r="25" cy="4025" cx="7470" stroke-width="5" stroke="rgb(150,150,150)" fill="rgb(150,150,150)" />
+
+    <!-- consumer icon -->
+    <line y2="4025" x2="7550" y1="4025" x1="7507" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 7470,3985 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(150,150,150)" />
+
+    <!-- provider icon -->
+    <line y2="3425" x2="7987" y1="3425" x1="7945" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <circle r="25" cy="3425" cx="8005" stroke-width="5" stroke="rgb(150,150,150)" fill="rgb(150,150,150)" />
+
+    <!-- consumer icon -->
+    <line y2="3425" x2="8085" y1="3425" x1="8042" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 8005,3385 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(150,150,150)" />
+
+    <!-- provider icon -->
+    <line y2="3725" x2="7987" y1="3725" x1="7945" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <circle r="25" cy="3725" cx="8005" stroke-width="5" stroke="rgb(150,150,150)" fill="rgb(150,150,150)" />
+
+    <!-- consumer icon -->
+    <line y2="3725" x2="8085" y1="3725" x1="8042" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 8005,3685 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(150,150,150)" />
+
+    <!-- provider icon -->
+    <line y2="4025" x2="7987" y1="4025" x1="7945" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <circle r="25" cy="4025" cx="8005" stroke-width="5" stroke="rgb(150,150,150)" fill="rgb(150,150,150)" />
+
+    <!-- consumer icon -->
+    <line y2="4025" x2="8085" y1="4025" x1="8042" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 8005,3985 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(150,150,150)" />
+
+    <!-- provider icon -->
+    <line y2="3425" x2="8192" y1="3425" x1="8150" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <circle r="25" cy="3425" cx="8210" stroke-width="5" stroke="rgb(150,150,150)" fill="rgb(150,150,150)" />
+
+    <!-- consumer icon -->
+    <line y2="3425" x2="8290" y1="3425" x1="8247" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 8210,3385 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(150,150,150)" />
+
+    <!-- provider icon -->
+    <line y2="3725" x2="8192" y1="3725" x1="8150" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <circle r="25" cy="3725" cx="8210" stroke-width="5" stroke="rgb(150,150,150)" fill="rgb(150,150,150)" />
+
+    <!-- consumer icon -->
+    <line y2="3725" x2="8290" y1="3725" x1="8247" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 8210,3685 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(150,150,150)" />
+
+    <!-- provider icon -->
+    <line y2="3425" x2="8472" y1="3425" x1="8430" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <circle r="25" cy="3425" cx="8490" stroke-width="5" stroke="rgb(150,150,150)" fill="rgb(150,150,150)" />
+
+    <!-- consumer icon -->
+    <line y2="3425" x2="8570" y1="3425" x1="8527" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 8490,3385 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(150,150,150)" />
+
+    <!-- provider icon -->
+    <line y2="3725" x2="8472" y1="3725" x1="8430" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <circle r="25" cy="3725" cx="8490" stroke-width="5" stroke="rgb(150,150,150)" fill="rgb(150,150,150)" />
+
+    <!-- consumer icon -->
+    <line y2="3725" x2="8570" y1="3725" x1="8527" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 8490,3685 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(150,150,150)" />
+
+    <!-- provider icon -->
+    <line y2="4025" x2="8472" y1="4025" x1="8430" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <circle r="25" cy="4025" cx="8490" stroke-width="5" stroke="rgb(150,150,150)" fill="rgb(150,150,150)" />
+
+    <!-- consumer icon -->
+    <line y2="4025" x2="8570" y1="4025" x1="8527" stroke-width="13" stroke="rgb(150,150,150)" fill="none" />
+    <path fill="none" stroke-width="13" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" 
+    d="m 8490,3985 c23.75691,0 43,18.12431 43,40.5c0,22.37569 -19.24309,40.5 -43,40.5"
+            stroke="rgb(150,150,150)" />
+
+    <!-- linke böxli -->
+    <!-- DPE -->
+    <rect x="50" y="5000" width="700" height="2000" 
+        style="fill:rgb(182,144,73);fill-opacity:1.0;stroke:rgb(134,106,54);stroke-width:20;opacity:1.0" />
+    <text x="100" y="6800" 
+        transform="rotate(-90 200,6800)" fill="white" font-family="Arial, sans-serif" font-size="150px">Deployment</text>
+    <text x="250" y="6800" 
+        transform="rotate(-90 350,6800)" fill="white" font-family="Arial, sans-serif" font-size="150px">Environments</text>
+
+    <!-- RTE -->
+    <rect x="50" y="200" width="700" 
+        height="2600" 
+        style="fill:rgb(75,145,205);fill-opacity:1.0;stroke:rgb(55,107,151);stroke-width:20;opacity:1.0" />
+    <text x="100" y="220" 
+        transform="rotate(-90 200,220)" fill="white" font-family="Arial, sans-serif" 
+        font-size="150px" text-anchor="end">Runtime</text>
+    <text x="250" y="220" 
+        transform="rotate(-90 350,220)" fill="white" font-family="Arial, sans-serif" 
+        font-size="150px" text-anchor="end">Environments</text>
+
+    <!-- Service Bus -->
+    <!-- Rect zeigen wir nicht an 
+    <rect x="50" y="2850" width="900" 
+        height="400" 
+        style="fill:#aad4ff;fill-opacity:1.0;stroke:#0000bf;stroke-width:20;opacity:1.0" />
+    -->
+    <text x="70" y="3200" 
+        fill="#005fbf" font-family="Arial, sans-serif" font-size="150px" >Service Bus</text>
+    
+
+
+    
+</svg>

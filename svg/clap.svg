@@ -1,0 +1,540 @@
+<svg viewBox="0 0 8590 7200" preserveAspectRatio="xMidYMid">
+    <defs>
+        <linearGradient id="serviceBus_gradient" x2="0" y2="1">
+         <stop stop-color="#0000bf" offset="0"/>
+         <stop stop-color="#aad4ff" offset="0.25"/>
+         <stop stop-color="#aad4ff" offset="0.75"/>
+         <stop stop-color="#0000bf" offset="1"/>
+        </linearGradient>
+    </defs>
+ 
+    <!-- generated: RTE SPA, Native/Hybrid App with status green -->
+    <rect x="725" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(0,176,80);fill-opacity:0.502;stroke:rgb(75,145,205);stroke-width:10;opacity:1.0" />
+    <text x="755" y="3550" transform="rotate(-90 855,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px" text-anchor="start">SPA, Native/Hybrid App</text>
+    <text x="755" y="1320" transform="rotate(-90 855,1320)" fill="rgb(75,145,175)" 
+                font-family="Arial, sans-serif" font-size="150px" text-anchor="end"></text>
+    <!-- <text x="755" y="3550" transform="rotate(-90 855,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px"></text> --> 
+    <!-- generated: RTE Digital Workplace with status green -->
+    <rect x="930" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(0,176,80);fill-opacity:0.502;stroke:rgb(75,145,205);stroke-width:10;opacity:1.0" />
+    <text x="960" y="3550" transform="rotate(-90 1060,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px" text-anchor="start">Digital Workplace</text>
+    <text x="960" y="1320" transform="rotate(-90 1060,1320)" fill="rgb(75,145,175)" 
+                font-family="Arial, sans-serif" font-size="150px" text-anchor="end"></text>
+    <!-- <text x="960" y="3550" transform="rotate(-90 1060,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px"></text> --> 
+    <!-- generated: RTE RPA (Robotics) with status yellow -->
+    <rect x="1135" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(255,255,0);fill-opacity:0.502;stroke:rgb(75,145,205);stroke-width:10;opacity:1.0" />
+    <text x="1165" y="3550" transform="rotate(-90 1265,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px" text-anchor="start">RPA (Robotics)</text>
+    <text x="1165" y="1320" transform="rotate(-90 1265,1320)" fill="rgb(75,145,175)" 
+                font-family="Arial, sans-serif" font-size="150px" text-anchor="end"></text>
+    <!-- <text x="1165" y="3550" transform="rotate(-90 1265,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px"></text> -->
+    <line x1="1390" y1="150" x2="1390" y2="4850" stroke-dasharray="25, 15" style="stroke:grey;stroke-width:10" />
+
+    <!-- generated: DPE Cloud Box Client -->
+    <rect x="725" y="5000" rx="50" ry="50" width="615" height="2000"
+        style="fill:rgb(182,144,73);fill-opacity:0.8;stroke:rgb(134,106,54);stroke-width:20;opacity:1.0" />
+    <text x="745" y="5200" fill="white" font-family="Arial, sans-serif" font-size="150px" >Client</text>
+ 
+    <!-- generated: RTE Java (JEE@JET) with status yellow -->
+    <rect x="1465" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(255,255,0);fill-opacity:0.502;stroke:rgb(75,145,205);stroke-width:10;opacity:1.0" />
+    <text x="1495" y="3550" transform="rotate(-90 1595,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px" text-anchor="start">Java (JEE@JET)</text>
+    <text x="1495" y="1320" transform="rotate(-90 1595,1320)" fill="rgb(75,145,175)" 
+                font-family="Arial, sans-serif" font-size="150px" text-anchor="end">31.12.2019</text>
+    <!-- <text x="1495" y="3550" transform="rotate(-90 1595,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px"></text> --> 
+    <!-- generated: RTE .NET with status yellow -->
+    <rect x="1670" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(255,255,0);fill-opacity:0.502;stroke:rgb(75,145,205);stroke-width:10;opacity:1.0" />
+    <text x="1700" y="3550" transform="rotate(-90 1800,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px" text-anchor="start">.NET</text>
+    <text x="1700" y="1320" transform="rotate(-90 1800,1320)" fill="rgb(75,145,175)" 
+                font-family="Arial, sans-serif" font-size="150px" text-anchor="end">31.12.2019</text>
+    <!-- <text x="1700" y="3550" transform="rotate(-90 1800,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px"></text> --> 
+    <!-- generated: RTE Sharepoint with status yellow -->
+    <rect x="1875" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(255,255,0);fill-opacity:0.502;stroke:rgb(75,145,205);stroke-width:10;opacity:1.0" />
+    <text x="1905" y="3550" transform="rotate(-90 2005,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px" text-anchor="start">Sharepoint</text>
+    <text x="1905" y="1320" transform="rotate(-90 2005,1320)" fill="rgb(75,145,175)" 
+                font-family="Arial, sans-serif" font-size="150px" text-anchor="end">31.12.2020</text>
+    <!-- <text x="1905" y="3550" transform="rotate(-90 2005,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px"></text> --> 
+    <!-- generated: RTE iWARP BPM Platform (Appway) with status green -->
+    <rect x="2080" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(0,176,80);fill-opacity:0.502;stroke:rgb(75,145,205);stroke-width:10;opacity:1.0" />
+    <text x="2110" y="3550" transform="rotate(-90 2210,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px" text-anchor="start">iWARP BPM Platform (Appway)</text>
+    <text x="2110" y="1320" transform="rotate(-90 2210,1320)" fill="rgb(75,145,175)" 
+                font-family="Arial, sans-serif" font-size="150px" text-anchor="end"></text>
+    <!-- <text x="2110" y="3550" transform="rotate(-90 2210,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px"></text> -->
+    <line x1="2310" y1="150" x2="2310" y2="4850" stroke-dasharray="25, 15" style="stroke:grey;stroke-width:10" />
+ 
+    <!-- generated: RTE IMS with status yellow -->
+    <rect x="2360" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(255,255,0);fill-opacity:0.502;stroke:rgb(75,145,205);stroke-width:10;opacity:1.0" />
+    <text x="2390" y="3550" transform="rotate(-90 2490,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px" text-anchor="start">IMS</text>
+    <text x="2390" y="1320" transform="rotate(-90 2490,1320)" fill="rgb(75,145,175)" 
+                font-family="Arial, sans-serif" font-size="150px" text-anchor="end"></text>
+    <!-- <text x="2390" y="3550" transform="rotate(-90 2490,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px"></text> --> 
+    <!-- generated: RTE CICS with status yellow -->
+    <rect x="2565" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(255,255,0);fill-opacity:0.502;stroke:rgb(75,145,205);stroke-width:10;opacity:1.0" />
+    <text x="2595" y="3550" transform="rotate(-90 2695,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px" text-anchor="start">CICS</text>
+    <text x="2595" y="1320" transform="rotate(-90 2695,1320)" fill="rgb(75,145,175)" 
+                font-family="Arial, sans-serif" font-size="150px" text-anchor="end"></text>
+    <!-- <text x="2595" y="3550" transform="rotate(-90 2695,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px"></text> -->
+    <line x1="2795" y1="150" x2="2795" y2="4850" stroke-dasharray="25, 15" style="stroke:grey;stroke-width:10" />
+ 
+    <!-- generated: RTE IBM i (COBOL) with status red -->
+    <rect x="2845" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(255,163,166);fill-opacity:0.502;stroke:rgb(75,145,205);stroke-width:10;opacity:1.0" />
+    <text x="2875" y="3550" transform="rotate(-90 2975,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px" text-anchor="start">IBM i (COBOL)</text>
+    <text x="2875" y="1320" transform="rotate(-90 2975,1320)" fill="rgb(75,145,175)" 
+                font-family="Arial, sans-serif" font-size="150px" text-anchor="end"></text>
+    <!-- <text x="2875" y="3550" transform="rotate(-90 2975,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px"></text> -->
+    <line x1="3305" y1="150" x2="3305" y2="4850" stroke-dasharray="25, 15" style="stroke:grey;stroke-width:10" />
+
+    <!-- generated: DPE Cloud Box Core IT -->
+    <rect x="1465" y="5000" rx="50" ry="50" width="1790" height="2000"
+        style="fill:rgb(182,144,73);fill-opacity:0.8;stroke:rgb(134,106,54);stroke-width:20;opacity:1.0" />
+    <text x="1485" y="5200" fill="white" font-family="Arial, sans-serif" font-size="150px" >Core IT</text>
+ 
+    <!-- generated: RTE .NET with status green -->
+    <rect x="3380" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(0,176,80);fill-opacity:0.502;stroke:rgb(75,145,205);stroke-width:10;opacity:1.0" />
+    <text x="3410" y="3550" transform="rotate(-90 3510,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px" text-anchor="start">.NET</text>
+    <text x="3410" y="1320" transform="rotate(-90 3510,1320)" fill="rgb(75,145,175)" 
+                font-family="Arial, sans-serif" font-size="150px" text-anchor="end"></text>
+    <!-- <text x="3410" y="3550" transform="rotate(-90 3510,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px"></text> -->
+    <line x1="3815" y1="150" x2="3815" y2="4850" stroke-dasharray="25, 15" style="stroke:grey;stroke-width:10" />
+ 
+    <!-- generated: RTE SAP Business Module with status green -->
+    <rect x="3865" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(0,176,80);fill-opacity:0.502;stroke:rgb(75,145,205);stroke-width:10;opacity:1.0" />
+    <text x="3895" y="3550" transform="rotate(-90 3995,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px" text-anchor="start">SAP Business Module</text>
+    <text x="3895" y="1320" transform="rotate(-90 3995,1320)" fill="rgb(75,145,175)" 
+                font-family="Arial, sans-serif" font-size="150px" text-anchor="end"></text>
+    <!-- <text x="3895" y="3550" transform="rotate(-90 3995,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px"></text> --> 
+    <!-- generated: RTE SAP BI/BW with status green -->
+    <rect x="4070" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(0,176,80);fill-opacity:0.502;stroke:rgb(75,145,205);stroke-width:10;opacity:1.0" />
+    <text x="4100" y="3550" transform="rotate(-90 4200,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px" text-anchor="start">SAP BI/BW</text>
+    <text x="4100" y="1320" transform="rotate(-90 4200,1320)" fill="rgb(75,145,175)" 
+                font-family="Arial, sans-serif" font-size="150px" text-anchor="end"></text>
+    <!-- <text x="4100" y="3550" transform="rotate(-90 4200,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px"></text> -->
+    <line x1="4300" y1="150" x2="4300" y2="4850" stroke-dasharray="25, 15" style="stroke:grey;stroke-width:10" />
+ 
+    <!-- generated: RTE DataLake with status blue -->
+    <rect x="4350" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(152,224,255);fill-opacity:0.502;stroke:rgb(75,145,205);stroke-width:10;opacity:1.0" />
+    <text x="4380" y="3550" transform="rotate(-90 4480,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px" text-anchor="start">DataLake</text>
+    <text x="4380" y="1320" transform="rotate(-90 4480,1320)" fill="rgb(75,145,175)" 
+                font-family="Arial, sans-serif" font-size="150px" text-anchor="end"></text>
+    <!-- <text x="4380" y="3550" transform="rotate(-90 4480,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px"></text> -->
+    <line x1="4785" y1="150" x2="4785" y2="4850" stroke-dasharray="25, 15" style="stroke:grey;stroke-width:10" />
+ 
+    <!-- generated: RTE Java (JBoss EAP, Spring) with status blue -->
+    <rect x="4835" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(152,224,255);fill-opacity:0.502;stroke:rgb(75,145,205);stroke-width:10;opacity:1.0" />
+    <text x="4865" y="3550" transform="rotate(-90 4965,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px" text-anchor="start">Java (JBoss EAP, Spring)</text>
+    <text x="4865" y="1320" transform="rotate(-90 4965,1320)" fill="rgb(75,145,175)" 
+                font-family="Arial, sans-serif" font-size="150px" text-anchor="end"></text>
+    <!-- <text x="4865" y="3550" transform="rotate(-90 4965,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px"></text> --> 
+    <!-- generated: RTE NodeJS with status blue -->
+    <rect x="5040" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(152,224,255);fill-opacity:0.502;stroke:rgb(75,145,205);stroke-width:10;opacity:1.0" />
+    <text x="5070" y="3550" transform="rotate(-90 5170,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px" text-anchor="start">NodeJS</text>
+    <text x="5070" y="1320" transform="rotate(-90 5170,1320)" fill="rgb(75,145,175)" 
+                font-family="Arial, sans-serif" font-size="150px" text-anchor="end"></text>
+    <!-- <text x="5070" y="3550" transform="rotate(-90 5170,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px"></text> --> 
+    <!-- generated: RTE Docker with status blue -->
+    <rect x="5245" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(152,224,255);fill-opacity:0.502;stroke:rgb(75,145,205);stroke-width:10;opacity:1.0" />
+    <text x="5275" y="3550" transform="rotate(-90 5375,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px" text-anchor="start">Docker</text>
+    <text x="5275" y="1320" transform="rotate(-90 5375,1320)" fill="rgb(75,145,175)" 
+                font-family="Arial, sans-serif" font-size="150px" text-anchor="end"></text>
+    <!-- <text x="5275" y="3550" transform="rotate(-90 5375,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px"></text> --> 
+    <!-- generated: RTE iWARP BPM Platform (Appway) with status blue -->
+    <rect x="5450" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(152,224,255);fill-opacity:0.502;stroke:rgb(75,145,205);stroke-width:10;opacity:1.0" />
+    <text x="5480" y="3550" transform="rotate(-90 5580,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px" text-anchor="start">iWARP BPM Platform (Appway)</text>
+    <text x="5480" y="1320" transform="rotate(-90 5580,1320)" fill="rgb(75,145,175)" 
+                font-family="Arial, sans-serif" font-size="150px" text-anchor="end"></text>
+    <!-- <text x="5480" y="3550" transform="rotate(-90 5580,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px"></text> -->
+    <line x1="5705" y1="150" x2="5705" y2="4850" stroke-dasharray="25, 15" style="stroke:grey;stroke-width:10" />
+
+    <!-- generated: DPE Cloud Box Private Cloud -->
+    <rect x="3380" y="5000" rx="50" ry="50" width="2275" height="2000"
+        style="fill:rgb(182,144,73);fill-opacity:0.6;stroke:rgb(134,106,54);stroke-width:20;opacity:1.0" />
+    <text x="3400" y="5200" fill="white" font-family="Arial, sans-serif" font-size="150px" >Private Cloud</text>
+ 
+    <!-- generated: RTE Java (JBoss EAP, Spring) with status green -->
+    <rect x="5780" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(0,176,80);fill-opacity:0.502;stroke:rgb(75,145,205);stroke-width:10;opacity:1.0" />
+    <text x="5810" y="3550" transform="rotate(-90 5910,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px" text-anchor="start">Java (JBoss EAP, Spring)</text>
+    <text x="5810" y="1320" transform="rotate(-90 5910,1320)" fill="rgb(75,145,175)" 
+                font-family="Arial, sans-serif" font-size="150px" text-anchor="end"></text>
+    <!-- <text x="5810" y="3550" transform="rotate(-90 5910,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px"></text> --> 
+    <!-- generated: RTE NodeJS with status blue -->
+    <rect x="5985" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(152,224,255);fill-opacity:0.502;stroke:rgb(75,145,205);stroke-width:10;opacity:1.0" />
+    <text x="6015" y="3550" transform="rotate(-90 6115,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px" text-anchor="start">NodeJS</text>
+    <text x="6015" y="1320" transform="rotate(-90 6115,1320)" fill="rgb(75,145,175)" 
+                font-family="Arial, sans-serif" font-size="150px" text-anchor="end"></text>
+    <!-- <text x="6015" y="3550" transform="rotate(-90 6115,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px"></text> --> 
+    <!-- generated: RTE Docker with status blue -->
+    <rect x="6190" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(152,224,255);fill-opacity:0.502;stroke:rgb(75,145,205);stroke-width:10;opacity:1.0" />
+    <text x="6220" y="3550" transform="rotate(-90 6320,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px" text-anchor="start">Docker</text>
+    <text x="6220" y="1320" transform="rotate(-90 6320,1320)" fill="rgb(75,145,175)" 
+                font-family="Arial, sans-serif" font-size="150px" text-anchor="end"></text>
+    <!-- <text x="6220" y="3550" transform="rotate(-90 6320,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px"></text> --> 
+    <!-- generated: RTE SaaS (AWS SaaS Services) with status green -->
+    <rect x="6395" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(0,176,80);fill-opacity:0.502;stroke:rgb(75,145,205);stroke-width:10;opacity:1.0" />
+    <text x="6425" y="3550" transform="rotate(-90 6525,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px" text-anchor="start">SaaS (AWS SaaS Services)</text>
+    <text x="6425" y="1320" transform="rotate(-90 6525,1320)" fill="rgb(75,145,175)" 
+                font-family="Arial, sans-serif" font-size="150px" text-anchor="end"></text>
+    <!-- <text x="6425" y="3550" transform="rotate(-90 6525,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px"></text> -->
+    <line x1="6625" y1="150" x2="6625" y2="4850" stroke-dasharray="25, 15" style="stroke:grey;stroke-width:10" />
+ 
+    <!-- generated: RTE .NET with status green -->
+    <rect x="6675" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(0,176,80);fill-opacity:0.502;stroke:rgb(75,145,205);stroke-width:10;opacity:1.0" />
+    <text x="6705" y="3550" transform="rotate(-90 6805,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px" text-anchor="start">.NET</text>
+    <text x="6705" y="1320" transform="rotate(-90 6805,1320)" fill="rgb(75,145,175)" 
+                font-family="Arial, sans-serif" font-size="150px" text-anchor="end"></text>
+    <!-- <text x="6705" y="3550" transform="rotate(-90 6805,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px"></text> --> 
+    <!-- generated: RTE NodeJS with status red -->
+    <rect x="6880" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(255,163,166);fill-opacity:0.502;stroke:rgb(75,145,205);stroke-width:10;opacity:1.0" />
+    <text x="6910" y="3550" transform="rotate(-90 7010,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px" text-anchor="start">NodeJS</text>
+    <text x="6910" y="1320" transform="rotate(-90 7010,1320)" fill="rgb(75,145,175)" 
+                font-family="Arial, sans-serif" font-size="150px" text-anchor="end"></text>
+    <!-- <text x="6910" y="3550" transform="rotate(-90 7010,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px"></text> --> 
+    <!-- generated: RTE SaaS (Azure SaaS Services) with status green -->
+    <rect x="7085" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(0,176,80);fill-opacity:0.502;stroke:rgb(75,145,205);stroke-width:10;opacity:1.0" />
+    <text x="7115" y="3550" transform="rotate(-90 7215,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px" text-anchor="start">SaaS (Azure SaaS Services)</text>
+    <text x="7115" y="1320" transform="rotate(-90 7215,1320)" fill="rgb(75,145,175)" 
+                font-family="Arial, sans-serif" font-size="150px" text-anchor="end"></text>
+    <!-- <text x="7115" y="3550" transform="rotate(-90 7215,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px"></text> -->
+    <line x1="7545" y1="150" x2="7545" y2="4850" stroke-dasharray="25, 15" style="stroke:grey;stroke-width:10" />
+
+    <!-- generated: DPE Cloud Box Managed Public Cloud -->
+    <rect x="5780" y="5000" rx="50" ry="50" width="1715" height="2000"
+        style="fill:rgb(182,144,73);fill-opacity:0.4;stroke:rgb(134,106,54);stroke-width:20;opacity:1.0" />
+    <text x="5800" y="5200" fill="white" font-family="Arial, sans-serif" font-size="150px" >Managed Public Cloud</text>
+ 
+    <!-- generated: RTE SaaS with status green -->
+    <rect x="7620" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(0,176,80);fill-opacity:0.502;stroke:rgb(75,145,205);stroke-width:10;opacity:1.0" />
+    <text x="7650" y="3550" transform="rotate(-90 7750,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px" text-anchor="start">SaaS</text>
+    <text x="7650" y="1320" transform="rotate(-90 7750,1320)" fill="rgb(75,145,175)" 
+                font-family="Arial, sans-serif" font-size="150px" text-anchor="end"></text>
+    <!-- <text x="7650" y="3550" transform="rotate(-90 7750,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px"></text> --> 
+    <!-- generated: RTE Office365 with status green -->
+    <rect x="7825" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(0,176,80);fill-opacity:0.502;stroke:rgb(75,145,205);stroke-width:10;opacity:1.0" />
+    <text x="7855" y="3550" transform="rotate(-90 7955,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px" text-anchor="start">Office365</text>
+    <text x="7855" y="1320" transform="rotate(-90 7955,1320)" fill="rgb(75,145,175)" 
+                font-family="Arial, sans-serif" font-size="150px" text-anchor="end"></text>
+    <!-- <text x="7855" y="3550" transform="rotate(-90 7955,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px"></text> -->
+    <line x1="8055" y1="150" x2="8055" y2="4850" stroke-dasharray="25, 15" style="stroke:grey;stroke-width:10" />
+ 
+    <!-- generated: RTE SaaS with status green -->
+    <rect x="8105" y="200" rx="20" ry="20" width="180" height="4600" 
+        style="fill:rgb(0,176,80);fill-opacity:0.502;stroke:rgb(75,145,205);stroke-width:10;opacity:1.0" />
+    <text x="8135" y="3550" transform="rotate(-90 8235,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px" text-anchor="start">SaaS</text>
+    <text x="8135" y="1320" transform="rotate(-90 8235,1320)" fill="rgb(75,145,175)" 
+                font-family="Arial, sans-serif" font-size="150px" text-anchor="end"></text>
+    <!-- <text x="8135" y="3550" transform="rotate(-90 8235,3550)" fill="rgb(75,145,175)" 
+            font-family="Arial, sans-serif" font-size="150px"></text> -->
+    <!-- generated: DPE Cloud Box Public Cloud -->
+    <rect x="7620" y="5000" rx="50" ry="50" width="895" height="2000"
+        style="fill:rgb(182,144,73);fill-opacity:0.2;stroke:rgb(134,106,54);stroke-width:20;opacity:1.0" />
+    <text x="7640" y="5200" fill="white" font-family="Arial, sans-serif" font-size="150px" >Public Cloud</text>
+    
+    <!-- DPE Instanz -->
+    <!-- rect center w:750 h:1400  rgb(182,144,73)  rgb(226,211,182)-->
+    <path fill="rgb(235,220,190)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 775,5400 L 1240,5400 1240,6900 775,6900 775,5400 Z"/>
+    <!-- rect rechts w:100 h:100  rgb(152,120,61)-->
+    <path fill="rgb(200,170,100)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 1240,5400 L 1290,5300 1290,6850 1240,6900 1240,5400 Z"/>
+    <!-- rect oben w:100 h:100 rgb(243,192,97)-->  
+    <path fill="rgb(226,211,182)" fill-opacity="1.0" stroke="rgb(134,106,54)"  stroke-width="10" stroke-linejoin="round" d="M 775,5400 L 845,5300 1290,5300 1240,5400 775,5400 Z"/>
+
+    <text x="825" y="6700" transform="rotate(-90 925,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="150px">Client Device</text>
+    <text x="945" y="6700" transform="rotate(-90 1045,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="100px"></text>
+    
+    <!-- DPE Instanz -->
+    <!-- rect center w:750 h:1400  rgb(182,144,73)  rgb(226,211,182)-->
+    <path fill="rgb(235,220,190)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 1515,5400 L 2235,5400 2235,6900 1515,6900 1515,5400 Z"/>
+    <!-- rect rechts w:100 h:100  rgb(152,120,61)-->
+    <path fill="rgb(200,170,100)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 2235,5400 L 2285,5300 2285,6850 2235,6900 2235,5400 Z"/>
+    <!-- rect oben w:100 h:100 rgb(243,192,97)-->  
+    <path fill="rgb(226,211,182)" fill-opacity="1.0" stroke="rgb(134,106,54)"  stroke-width="10" stroke-linejoin="round" d="M 1515,5400 L 1585,5300 2285,5300 2235,5400 1515,5400 Z"/>
+
+    <text x="1565" y="6700" transform="rotate(-90 1665,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="150px">VMWare ESX</text>
+    <text x="1685" y="6700" transform="rotate(-90 1785,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="100px">(Windows, RHEL)</text>
+    
+    <!-- DPE Instanz -->
+    <!-- rect center w:750 h:1400  rgb(182,144,73)  rgb(226,211,182)-->
+    <path fill="rgb(235,220,190)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 2360,5400 L 2720,5400 2720,6900 2360,6900 2360,5400 Z"/>
+    <!-- rect rechts w:100 h:100  rgb(152,120,61)-->
+    <path fill="rgb(200,170,100)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 2720,5400 L 2770,5300 2770,6850 2720,6900 2720,5400 Z"/>
+    <!-- rect oben w:100 h:100 rgb(243,192,97)-->  
+    <path fill="rgb(226,211,182)" fill-opacity="1.0" stroke="rgb(134,106,54)"  stroke-width="10" stroke-linejoin="round" d="M 2360,5400 L 2430,5300 2770,5300 2720,5400 2360,5400 Z"/>
+
+    <text x="2410" y="6700" transform="rotate(-90 2510,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="150px">Mainframe</text>
+    <text x="2530" y="6700" transform="rotate(-90 2630,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="100px">(zseries, z/OS)</text>
+    
+    <!-- DPE Instanz -->
+    <!-- rect center w:750 h:1400  rgb(182,144,73)  rgb(226,211,182)-->
+    <path fill="rgb(235,220,190)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 2845,5400 L 3155,5400 3155,6900 2845,6900 2845,5400 Z"/>
+    <!-- rect rechts w:100 h:100  rgb(152,120,61)-->
+    <path fill="rgb(200,170,100)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 3155,5400 L 3205,5300 3205,6850 3155,6900 3155,5400 Z"/>
+    <!-- rect oben w:100 h:100 rgb(243,192,97)-->  
+    <path fill="rgb(226,211,182)" fill-opacity="1.0" stroke="rgb(134,106,54)"  stroke-width="10" stroke-linejoin="round" d="M 2845,5400 L 2915,5300 3205,5300 3155,5400 2845,5400 Z"/>
+
+    <text x="2895" y="6700" transform="rotate(-90 2995,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="150px">IBM iSeries</text>
+    <text x="3015" y="6700" transform="rotate(-90 3115,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="100px"></text>
+    
+    <!-- DPE Instanz -->
+    <!-- rect center w:750 h:1400  rgb(182,144,73)  rgb(226,211,182)-->
+    <path fill="rgb(235,220,190)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 3430,5400 L 3740,5400 3740,6900 3430,6900 3430,5400 Z"/>
+    <!-- rect rechts w:100 h:100  rgb(152,120,61)-->
+    <path fill="rgb(200,170,100)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 3740,5400 L 3790,5300 3790,6850 3740,6900 3740,5400 Z"/>
+    <!-- rect oben w:100 h:100 rgb(243,192,97)-->  
+    <path fill="rgb(226,211,182)" fill-opacity="1.0" stroke="rgb(134,106,54)"  stroke-width="10" stroke-linejoin="round" d="M 3430,5400 L 3500,5300 3790,5300 3740,5400 3430,5400 Z"/>
+
+    <text x="3480" y="6700" transform="rotate(-90 3580,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="150px">IaaS - BLS</text>
+    <text x="3600" y="6700" transform="rotate(-90 3700,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="100px">(Windows, RHEL)</text>
+    
+    <!-- DPE Instanz -->
+    <!-- rect center w:750 h:1400  rgb(182,144,73)  rgb(226,211,182)-->
+    <path fill="rgb(235,220,190)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 3865,5400 L 4225,5400 4225,6900 3865,6900 3865,5400 Z"/>
+    <!-- rect rechts w:100 h:100  rgb(152,120,61)-->
+    <path fill="rgb(200,170,100)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 4225,5400 L 4275,5300 4275,6850 4225,6900 4225,5400 Z"/>
+    <!-- rect oben w:100 h:100 rgb(243,192,97)-->  
+    <path fill="rgb(226,211,182)" fill-opacity="1.0" stroke="rgb(134,106,54)"  stroke-width="10" stroke-linejoin="round" d="M 3865,5400 L 3935,5300 4275,5300 4225,5400 3865,5400 Z"/>
+
+    <text x="3915" y="6700" transform="rotate(-90 4015,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="150px">SAP BB4B</text>
+    <text x="4035" y="6700" transform="rotate(-90 4135,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="100px"> </text>
+    
+    <!-- DPE Instanz -->
+    <!-- rect center w:750 h:1400  rgb(182,144,73)  rgb(226,211,182)-->
+    <path fill="rgb(235,220,190)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 4350,5400 L 4710,5400 4710,6900 4350,6900 4350,5400 Z"/>
+    <!-- rect rechts w:100 h:100  rgb(152,120,61)-->
+    <path fill="rgb(200,170,100)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 4710,5400 L 4760,5300 4760,6850 4710,6900 4710,5400 Z"/>
+    <!-- rect oben w:100 h:100 rgb(243,192,97)-->  
+    <path fill="rgb(226,211,182)" fill-opacity="1.0" stroke="rgb(134,106,54)"  stroke-width="10" stroke-linejoin="round" d="M 4350,5400 L 4420,5300 4760,5300 4710,5400 4350,5400 Z"/>
+
+    <text x="4400" y="6700" transform="rotate(-90 4500,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="150px">DataLake - DIL</text>
+    <text x="4520" y="6700" transform="rotate(-90 4620,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="100px"> </text>
+    
+    <!-- DPE Instanz -->
+    <!-- rect center w:750 h:1400  rgb(182,144,73)  rgb(226,211,182)-->
+    <path fill="rgb(235,220,190)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 4835,5400 L 5555,5400 5555,6900 4835,6900 4835,5400 Z"/>
+    <!-- rect rechts w:100 h:100  rgb(152,120,61)-->
+    <path fill="rgb(200,170,100)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 5555,5400 L 5605,5300 5605,6850 5555,6900 5555,5400 Z"/>
+    <!-- rect oben w:100 h:100 rgb(243,192,97)-->  
+    <path fill="rgb(226,211,182)" fill-opacity="1.0" stroke="rgb(134,106,54)"  stroke-width="10" stroke-linejoin="round" d="M 4835,5400 L 4905,5300 5605,5300 5555,5400 4835,5400 Z"/>
+
+    <text x="4885" y="6700" transform="rotate(-90 4985,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="150px">OpenPaaS/private</text>
+    <text x="5005" y="6700" transform="rotate(-90 5105,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="100px">(OpenShift on BLS)</text>
+    
+    <!-- DPE Instanz -->
+    <!-- rect center w:750 h:1400  rgb(182,144,73)  rgb(226,211,182)-->
+    <path fill="rgb(235,220,190)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 5830,5400 L 6550,5400 6550,6900 5830,6900 5830,5400 Z"/>
+    <!-- rect rechts w:100 h:100  rgb(152,120,61)-->
+    <path fill="rgb(200,170,100)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 6550,5400 L 6600,5300 6600,6850 6550,6900 6550,5400 Z"/>
+    <!-- rect oben w:100 h:100 rgb(243,192,97)-->  
+    <path fill="rgb(226,211,182)" fill-opacity="1.0" stroke="rgb(134,106,54)"  stroke-width="10" stroke-linejoin="round" d="M 5830,5400 L 5900,5300 6600,5300 6550,5400 5830,5400 Z"/>
+
+    <text x="5880" y="6700" transform="rotate(-90 5980,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="150px">OpenPaaS/public</text>
+    <text x="6000" y="6700" transform="rotate(-90 6100,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="100px">(OpenShift on AWS)</text>
+    
+    <!-- DPE Instanz -->
+    <!-- rect center w:750 h:1400  rgb(182,144,73)  rgb(226,211,182)-->
+    <path fill="rgb(235,220,190)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 6675,5400 L 7395,5400 7395,6900 6675,6900 6675,5400 Z"/>
+    <!-- rect rechts w:100 h:100  rgb(152,120,61)-->
+    <path fill="rgb(200,170,100)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 7395,5400 L 7445,5300 7445,6850 7395,6900 7395,5400 Z"/>
+    <!-- rect oben w:100 h:100 rgb(243,192,97)-->  
+    <path fill="rgb(226,211,182)" fill-opacity="1.0" stroke="rgb(134,106,54)"  stroke-width="10" stroke-linejoin="round" d="M 6675,5400 L 6745,5300 7445,5300 7395,5400 6675,5400 Z"/>
+
+    <text x="6725" y="6700" transform="rotate(-90 6825,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="150px">AzurePaaS</text>
+    <text x="6845" y="6700" transform="rotate(-90 6945,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="100px">Azure</text>
+    
+    <!-- DPE Instanz -->
+    <!-- rect center w:750 h:1400  rgb(182,144,73)  rgb(226,211,182)-->
+    <path fill="rgb(235,220,190)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 7670,5400 L 7980,5400 7980,6900 7670,6900 7670,5400 Z"/>
+    <!-- rect rechts w:100 h:100  rgb(152,120,61)-->
+    <path fill="rgb(200,170,100)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 7980,5400 L 8030,5300 8030,6850 7980,6900 7980,5400 Z"/>
+    <!-- rect oben w:100 h:100 rgb(243,192,97)-->  
+    <path fill="rgb(226,211,182)" fill-opacity="1.0" stroke="rgb(134,106,54)"  stroke-width="10" stroke-linejoin="round" d="M 7670,5400 L 7740,5300 8030,5300 7980,5400 7670,5400 Z"/>
+
+    <text x="7720" y="6700" transform="rotate(-90 7820,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="150px">Partially Known</text>
+    <text x="7840" y="6700" transform="rotate(-90 7940,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="100px"> </text>
+    
+    <!-- DPE Instanz -->
+    <!-- rect center w:750 h:1400  rgb(182,144,73)  rgb(226,211,182)-->
+    <path fill="rgb(235,220,190)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 8105,5400 L 8415,5400 8415,6900 8105,6900 8105,5400 Z"/>
+    <!-- rect rechts w:100 h:100  rgb(152,120,61)-->
+    <path fill="rgb(200,170,100)" fill-opacity="1.0" stroke="rgb(134,106,54)" stroke-width="10" stroke-linejoin="round" d="M 8415,5400 L 8465,5300 8465,6850 8415,6900 8415,5400 Z"/>
+    <!-- rect oben w:100 h:100 rgb(243,192,97)-->  
+    <path fill="rgb(226,211,182)" fill-opacity="1.0" stroke="rgb(134,106,54)"  stroke-width="10" stroke-linejoin="round" d="M 8105,5400 L 8175,5300 8465,5300 8415,5400 8105,5400 Z"/>
+
+    <text x="8155" y="6700" transform="rotate(-90 8255,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="150px">Unknown</text>
+    <text x="8275" y="6700" transform="rotate(-90 8375,6700)" fill="rgb(134,106,54)" font-family="Arial, sans-serif" 
+        font-size="100px"> </text>
+
+    <!-- linke böxli -->
+    <!-- DPE -->
+    <rect x="50" y="5000" width="400" height="2000" 
+        style="fill:rgb(182,144,73);fill-opacity:1.0;stroke:rgb(134,106,54);stroke-width:20;opacity:1.0" />
+    <text x="100" y="6800" 
+        transform="rotate(-90 200,6800)" fill="white" font-family="Arial, sans-serif" font-size="150px">Deployment</text>
+    <text x="250" y="6800" 
+        transform="rotate(-90 350,6800)" fill="white" font-family="Arial, sans-serif" font-size="150px">Environments</text>
+
+    <!-- App CS -->
+    <rect x="50" y="200" width="400" height="1050" 
+        style="fill:rgb(127,162,177);fill-opacity:1.0;stroke:rgb(93,119,130);stroke-width:20;opacity:1.0" />
+    <text x="100" y="1100" 
+        transform="rotate(-90 200,1100)" fill="white" font-family="Arial, sans-serif" 
+        font-size="150px">App Common</text>
+    <text x="250" y="1100" 
+        transform="rotate(-90 350,1100)" fill="white" font-family="Arial, sans-serif" 
+        font-size="150px">Services</text>
+
+    <!-- RTE -->
+    <rect x="50" y="1300" width="400" height="2400" 
+        style="fill:rgb(75,145,205);fill-opacity:1.0;stroke:rgb(55,107,151);stroke-width:20;opacity:1.0" />
+    <text x="100" y="3550" 
+        transform="rotate(-90 200,3550)" fill="white" font-family="Arial, sans-serif" 
+        font-size="150px">Runtime</text>
+    <text x="250" y="3550" 
+        transform="rotate(-90 350,3550)" fill="white" font-family="Arial, sans-serif" 
+        font-size="150px">Environments</text>
+
+    <!-- Infra CS -->
+    <rect x="50" y="3750" width="400" height="1050" 
+        style="fill:rgb(0,69,99);fill-opacity:1.0;stroke:rgb(0,51,73);stroke-width:20;opacity:1.0" />
+    <text x="100" y="4650" 
+        transform="rotate(-90 200,4650)" fill="white" font-family="Arial, sans-serif" 
+        font-size="150px">Infra Common</text>
+    <text x="250" y="4650" 
+        transform="rotate(-90 350,4650)" fill="white" font-family="Arial, sans-serif" 
+        font-size="150px">Services</text>
+    
+    <!-- generated: App Common Service Business Rules -->
+    <rect x="700" y="250" width="7840" height="175"
+        style="fill:rgb(127,162,177);fill-opacity:0.6;stroke:rgb(93,119,130);stroke-width:20;opacity:1.0" />
+    <text x="720" y="385" fill="white" font-family="Arial, sans-serif" font-size="150px" >Business Rules</text>
+
+    <!-- generated: App Common Service ECM: CA, CM, CD -->
+    <rect x="700" y="475" width="7840" height="175"
+        style="fill:rgb(127,162,177);fill-opacity:0.6;stroke:rgb(93,119,130);stroke-width:20;opacity:1.0" />
+    <text x="720" y="610" fill="white" font-family="Arial, sans-serif" font-size="150px" >ECM: CA, CM, CD</text>
+
+    <!-- generated: App Common Service Workload Balancing -->
+    <rect x="700" y="700" width="7840" height="175"
+        style="fill:rgb(127,162,177);fill-opacity:0.6;stroke:rgb(93,119,130);stroke-width:20;opacity:1.0" />
+    <text x="720" y="835" fill="white" font-family="Arial, sans-serif" font-size="150px" >Workload Balancing</text>
+
+    <!-- generated: Infra Common Service Datastores, Databases, ... -->
+    <rect x="700" y="4575" width="7840" height="175"
+        style="fill:rgb(0,69,99);fill-opacity:0.6;stroke:rgb(0,51,73);stroke-width:20;opacity:1.0" />
+    <text x="720" y="4710" fill="white" font-family="Arial, sans-serif" font-size="150px" >Datastores, Databases, ...</text>
+
+    <!-- generated: Infra Common Service Security: IAM, Authentication, Autorization, ... -->
+    <rect x="700" y="4350" width="7840" height="175"
+        style="fill:rgb(0,69,99);fill-opacity:0.6;stroke:rgb(0,51,73);stroke-width:20;opacity:1.0" />
+    <text x="720" y="4485" fill="white" font-family="Arial, sans-serif" font-size="150px" >Security: IAM, Authentication, Autorization, ...</text>
+
+    <!-- generated: Infra Common Service Communication: E-Mail, SMS, Chat, ... -->
+    <rect x="700" y="4125" width="7840" height="175"
+        style="fill:rgb(0,69,99);fill-opacity:0.6;stroke:rgb(0,51,73);stroke-width:20;opacity:1.0" />
+    <text x="720" y="4260" fill="white" font-family="Arial, sans-serif" font-size="150px" >Communication: E-Mail, SMS, Chat, ...</text>
+
+    <!-- generated: Infra Common Service Integration -->
+    <rect x="700" y="3900" width="7840" height="175"
+        style="fill:rgb(0,69,99);fill-opacity:0.6;stroke:rgb(0,51,73);stroke-width:20;opacity:1.0" />
+    <text x="720" y="4035" fill="white" font-family="Arial, sans-serif" font-size="150px" >Integration</text>
+
+</svg>

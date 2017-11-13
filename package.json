@@ -1,0 +1,25 @@
+{
+  "name": "svg-gen",
+  "version": "0.1.0",
+  "description": "CLAP SVG Generator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./app.js"
+  },
+  "engines": {
+    "node": "v6.10.3"
+  },
+  "keywords": [
+    "svg",
+    "CLAP"
+  ],
+  "author": "David Ulrich",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "fs": "0.0.1-security",
+    "ejs": "^2.5.7"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,66 @@
+{
+    "version": "0.2.0",    
+    "svg": {
+        "width": 10000,
+        "height": 8000,
+        "leftBorder": 50,
+        "rightBorder": 50,
+        "topBorder": 200,
+        "bottomBorder": 200
+    },
+    "cs": {
+        "height": 175,
+        "spaceHeight": 50,
+        "width": -1
+    },
+    "io": {
+        "serviceBus": {
+            "height": 250,
+            "width": -1,
+            "startX": -1,
+            "spaceHeight": 50
+        },
+        "startX": 1000,
+        "y": -1
+    },
+    "left": {
+        "width": 400,
+        "spaceHeight": 50,
+        "dpeRteSpaceHeight": 200,
+        "appCS": {
+            "heightMin": 1050,
+            "height": -1,
+            "y": -1
+        },
+        "infraCS": {
+            "heightMin": 1050,
+            "height": -1,
+            "y": -1
+        },
+        "rte": {
+            "height": 2400,
+            "y": -1
+        },
+        "io": {
+            "height": 400,
+            "width": 900,
+            "y": -1
+        }, 
+        "ioRte": {
+            "height": -1,
+            "y": -1
+        }
+    },
+    "rte": {
+        "space": 25,
+        "width": 180,
+        "startX": 700,
+        "y": -1,
+        "height": -1
+    },
+    "dpe": {
+        "startX": 700,
+        "height": 2000,
+        "y": -1
+    }
+}
