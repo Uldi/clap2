@@ -2,7 +2,7 @@ var fs = require('fs');
 require('dotenv').config();
 
 //read CLAP Definition
-var clapJson = fs.readFileSync(process.env.CLAP_DEF_FILE || 'templates/clap.json');
+var clapJson = fs.readFileSync(process.env.CLAP_DEF_FILE || 'config/clap.json');
 // Define to JSON type
 var clapJsonContent = JSON.parse(clapJson);
 
@@ -57,7 +57,7 @@ function generateIOSvg(clap) {
 //calculate configuration
 function setupClapConfig(clap) {
     //read CLAP Definition
-    var configDataJson = fs.readFileSync(process.env.CONFIG_FILE || 'templates/config.json');
+    var configDataJson = fs.readFileSync(process.env.CONFIG_FILE || 'config/config.json');
     // Define to JSON type
     var config = JSON.parse(configDataJson);
 
