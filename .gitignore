@@ -45,3 +45,6 @@ keys
 
 #no test stuff
 x-svg-dev
+
+#no svg nyc_output
+svg
