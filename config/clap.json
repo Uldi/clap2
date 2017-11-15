@@ -245,7 +245,7 @@
     "infraCS" : [
         {"name" : "Datastores, Databases, ..."},
         {"name" : "Security: IAM, Authentication, Autorization, ..."},
-        {"name" : "Communication: E-Mail, SMS, Chat, ..."},
+        {"name" : "Communication: AMG (eMail), SMS, Chat, ..."},
         {"name" : "Integration"}
     ],
     "appCS" : [
