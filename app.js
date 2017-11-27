@@ -13,8 +13,10 @@ var svgGenerator = require('./modules/svg-generator.js')(config);
 
 //generate CLAP SVG
 generateClapSvg(clapJsonContent.clap);
-var serviceBuses = {};
-generateIOSvg(clapJsonContent.clap);
+
+//generate detailviews
+var rows = {};
+generateDetailViewsSvg(clapJsonContent.clap);
 
 
 //=========================================================
@@ -34,21 +36,33 @@ function generateClapSvg(clap) {
 }
 
 //must be called after generateClapSvg!
-function generateIOSvg(clap) {
+function generateDetailViewsSvg(clap) {
+    setupDetailViewConfig(clap);
+    for (v = 0; v < clap.detailViews.length; v++) {
+        var detailView = clap.detailViews[v];
+        rows = {};
+        generateDetailViewSvg(clap, detailView);
+    }
+}
+function generateDetailViewSvg(clap, detailView) {
     //first set config values
-    setupIOConfig(clap);
+    //setupIOConfig(clap);
     var svgOutput = generateRteAndDpeSvg(clap, false);
 
 
-    svgOutput = svgOutput + generateServiceBusesSvg(clap);
-    svgOutput = svgOutput + generateProvAndConsSvg(clap);
-    svgOutput = svgOutput + svgGenerator.getLeftIoSvgFragment();
-
+    svgOutput = svgOutput + generateDetailViewRowsSvg(detailView);
+    svgOutput = svgOutput + generateDetailSvg(clap, detailView);
+    svgOutput = svgOutput + svgGenerator.getDetailViewLeftSvgFragment(detailView);
 
     svgOutput = svgGenerator.getHeaderSvgFragement() + svgOutput + svgGenerator.getFooterSvgFragement();
+    htmlFileName = process.env.DETAILVIEW_HTML_FILE || 'svg/detailView_default_XX.html';
+    svgFileName = process.env.DETAILVIEW_SVG_FILE || 'svg/detailView_default_XX.svg';
 
-    writeSVG(svgOutput, process.env.IO_SVG_FILE || 'svg/io_default.svg');
-    writeHtml(svgOutput, process.env.IO_HTML_FILE || 'svg/io_default.html');
+    htmlFileName = htmlFileName.replace("XX", detailView.name).replace(/ /g, "_");
+    svgFileName = svgFileName.replace("XX", detailView.name).replace(/ /g, "_");
+
+    writeSVG(svgOutput, svgFileName);
+    writeHtml(svgOutput, htmlFileName);
 }
 
 //=========================================================
@@ -205,44 +219,54 @@ function generateRteAndDpeSvg(clap, colored) {
 
 
 //=========================================================
-// IO generation methods
+// DetailView generation methods
 //=========================================================
 
 //calculate io configuration --> needs to be called after RTE's were generated!
-function setupIOConfig(clap) {
-    config.io.serviceBus.startX = config.svg.leftBorder;
+function setupDetailViewConfig(clap) {
+    config.detailView.row.startX = config.svg.leftBorder;
     //adjust width to more space to the left
-    config.svg.width = config.svg.width - config.rte.startX + config.io.startX;
-    config.io.serviceBus.width = config.svg.width - config.svg.leftBorder - config.svg.rightBorder;
+    config.svg.width = config.svg.width - config.rte.startX + config.detailView.startX;
+    config.detailView.row.width = config.svg.width - config.svg.leftBorder - config.svg.rightBorder;
 
     //set new startX
-    config.left.width = config.left.width + config.io.startX - config.rte.startX;
-    config.rte.startX = config.io.startX;
-    config.dpe.startX = config.io.startX;
+    config.left.width = config.left.width + config.detailView.startX - config.rte.startX;
+    config.rte.startX = config.detailView.startX;
+    config.dpe.startX = config.detailView.startX;
 }
 
-//Service Buses - bottom up
-function generateServiceBusesSvg(clap) {
+//Detail View  - bottom up
+function generateDetailViewRowsSvg(detailView) {
     var dynSvgOutput = "";
     //naja etwas getrickst
     var y = config.left.infraCS.y + config.left.infraCS.height;
 
-    for (i = 0; i < clap.serviceBus.length; i++) {
-        y = y - config.io.serviceBus.spaceHeight - config.io.serviceBus.height;
-        var serviceBus = clap.serviceBus[i];
-        serviceBus.y = y;
-        dynSvgOutput = dynSvgOutput + svgGenerator.getServiceBusSvgFragement(serviceBus, y);
+    for (i = 0; i < detailView.row.length; i++) {
+        y = y - config.detailView.row.spaceHeight - config.detailView.row.height;
+        var row = detailView.row[i];
+        row.y = y;
 
-        serviceBuses[serviceBus.id] = serviceBus;
+        //evaluate gradient
+        var gradient = row.gradient || detailView.gradient || config.detailView.row.gradient;
+        dynSvgOutput = dynSvgOutput + svgGenerator.getDetailViewRowSvgFragement(row, y, gradient);
+
+        rows[row.id] = row;
     }
-    config.left.io.y = y - config.io.serviceBus.spaceHeight - config.left.io.height;
-    config.left.ioRte.y = config.rte.y;
-    config.left.ioRte.height = config.left.io.y - config.left.ioRte.y - config.left.spaceHeight;
+    
+    detailView.detail = {};
+    detailView.rte = {};
+    
+    //config.left.io.y
+    detailView.detail.y = y - config.detailView.row.spaceHeight - config.left.detailView.height;
+    //config.left.ioRte.y 
+    detailView.rte.y = config.rte.y;
+    //config.left.ioRte.height 
+    detailView.rte.height = detailView.detail.y - detailView.rte.y - config.left.spaceHeight;
     
     return dynSvgOutput;
 }
 
-function generateProvAndConsSvg(clap) {
+function generateDetailSvg(clap, detailView) {
     var dynSvgOutput = "";
 
     for (d = 0; d < clap.dpeCloud.length; d++) {
@@ -256,16 +280,24 @@ function generateProvAndConsSvg(clap) {
             for (j = 0; j < dpe.rte.length; j++) {
                 var rte = dpe.rte[j];
                 if (rte.state != "invisible") {
-                    //iterate over io
-                    if (rte.io) {
-                        for (k = 0; k < rte.io.length; k++) {
-                            var io = rte.io[k];
-                            //-5 als optische Korrektur
-                            var x = rte.x + config.rte.width/2 - 5;
-                            var y = serviceBuses[io.serviceBus].y + config.io.serviceBus.height/2;
-                            dynSvgOutput = dynSvgOutput + 
-                                    svgGenerator.getIoProvConsSvgFragement(x, y, io);
-                            //add prov, cons
+                    //iterate over detail
+                    if (rte.detail) {
+                        var detailConf = rte.detail[detailView.id];
+                        if (detailConf) {
+                            for (k = 0; k < detailConf.length; k++) {
+                                var detail = detailConf[k];
+                                var x = rte.x + config.rte.width/2;
+                                var y = rows[detail.row].y + config.detailView.row.height/2;
+                                if (detailView.id != "io") {
+                                    dynSvgOutput = dynSvgOutput + 
+                                    svgGenerator.getDetailSvgFragement(x, y, detail.state);
+                                } else {
+                                    //kosmetische Korrektur
+                                    x = x - 5;
+                                    dynSvgOutput = dynSvgOutput + 
+                                    svgGenerator.getIoProvConsSvgFragement(x, y, detail);
+                                }
+                            }
                         }
                     }
                 }
@@ -288,7 +320,7 @@ function writeSVG(dynSVG, filename) {
         if (err) {
             return console.error(err);
         }
-        console.log("Data written successfully!");
+        console.log("Data written successfully! ", filename);
     });
 }
 
@@ -300,6 +332,6 @@ function writeHtml(dynSVG, filename) {
         if (err) {
             return console.error(err);
         }
-        console.log("Data written successfully!");
+        console.log("Data written successfully! ", filename);
     });
 }
