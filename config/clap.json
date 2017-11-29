@@ -826,6 +826,9 @@
         ],
         "appCS": [
             {
+                "name": "Business Events"
+            },
+            {
                 "name": "Business Rules"
             },
             {
