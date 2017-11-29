@@ -9,3 +9,5 @@ Cloud TAP SVG Diagramm Generation Tooling
 ## folders
 * **templates** --> contains als svg snippet templates and configurtation files
 * **svg** --> output directory for the generated files, contains also the legend svgs
+
+##Test...
