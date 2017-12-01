@@ -8,6 +8,9 @@
         "topBorder": 200,
         "bottomBorder": 200
     },
+    "url": {
+        "opacity": 0.0
+    },
     "cs": {
         "height": 175,
         "spaceHeight": 50,

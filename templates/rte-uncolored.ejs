@@ -1,6 +1,12 @@
  
-    <!-- generated: RTE <%=data.rte. name%>  -->
+    <!-- generated: RTE <%=rte. name%>  -->
     <rect x="<%=data.x%>" y="<%=config.rte.y%>" rx="20" ry="20" width="<%=config.rte.width%>" height="<%=config.rte.height%>" 
         style="fill:rgb(200,200,200);fill-opacity:0.502;stroke:rgb(100,100,100);stroke-width:10;opacity:1.0" />
     <text x="<%=data.x + 30%>" y="<%=config.rte.y + 20%>" transform="rotate(-90 <%=data.x + 130%>,<%=config.rte.y + 20%>)" fill="rgb(75,145,175)" 
-        font-family="Arial, sans-serif" font-size="150px" text-anchor="end"><%=data.rte.name%></text>
+        font-family="Arial, sans-serif" font-size="150px" text-anchor="end"><%=rte.name%></text>
+
+    <% if (rte.url) { %>
+        <a xlink:href="<%= rte.url %>" target="newWindow">
+            <rect x="<%=data.x%>" y="<%=config.rte.y%>" rx="20" ry="20" width="<%=config.rte.width%>" height="<%=config.rte.height%>" stroke-width="0" fill-opacity="<%=config.url.opacity%>"/>
+        </a>
+    <% } %>

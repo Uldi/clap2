@@ -9,29 +9,35 @@
                     {
                         "name": "Client Device",
                         "details": "",
+                        "url": "http://client.com",
                         "rte": [
                             {
                                 "name": "SPA, Native/Hybrid App",
+                                "url": "http://spa.com",
                                 "state": "green",
                                 "detail": {
                                     "io": [
                                         {
                                             "row": "r",
-                                            "consumer": "green"
+                                            "consumer": "green",
+                                            "url": "http://google.ch"
                                         },
                                         {
                                             "row": "m",
-                                            "consumer": "grey"
+                                            "consumer": "grey",
+                                            "url": "http://google.ch"
                                         }
                                     ],
                                     "db": [
                                         {
                                             "row": "oracle",
-                                            "state": "green"
+                                            "state": "green",
+                                            "url": "http://oracle.com"
                                         },
                                         {
                                             "row": "db2",
-                                            "state": "yellow"
+                                            "state": "yellow",
+                                            "url": "http://ibm.com"
                                         },
                                         {
                                             "row": "mssql",
@@ -57,6 +63,7 @@
                             {
                                 "name": "Digital Workplace",
                                 "state": "green",
+                                "url": "http://dw.com",
                                 "detail": {
                                     "io": [
                                         {
@@ -812,7 +819,8 @@
         ],
         "infraCS": [
             {
-                "name": "Datastores, Databases, ..."
+                "name": "Datastores, Databases, ...",
+                "url": "http://infra.cs"
             },
             {
                 "name": "Security: IAM, Authentication, Autorization, ..."
@@ -826,7 +834,8 @@
         ],
         "appCS": [
             {
-                "name": "Business Events"
+                "name": "Business Events",
+                "url": "http://app.cs"
             },
             {
                 "name": "Business Rules"
@@ -865,7 +874,8 @@
                     },
                     {
                         "name": "File Transfer",
-                        "id": "f"
+                        "id": "f",
+                        "url": "http://filetransfer.com"
                     },
                     {
                         "name": "SOAP",
@@ -883,11 +893,13 @@
                 "row": [
                     {
                         "name": "Oracle",
-                        "id": "oracle"
+                        "id": "oracle",
+                        "url": "http://oracle.com/row"
                     },
                     {
                         "name": "DB2",
-                        "id": "db2"
+                        "id": "db2",
+                        "url": "http://ibm.com/row"
                     },
                     {
                         "name": "MSSQL",

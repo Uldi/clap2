@@ -1,13 +1,20 @@
 <!-- detailView <%=data.name%> - uses the detailView_gradient defined in the header.ejs -->
 <defs>
-    <linearGradient id="detailView_gradient_<%=data.id%>" x2="0" y2="1">
+    <linearGradient id="detailView_gradient_<%=row.id%>" x2="0" y2="1">
         <stop stop-color="<%=gradient.colorDark%>" offset="0"/>
         <stop stop-color="<%=gradient.colorLight%>" offset="0.25"/>
         <stop stop-color="<%=gradient.colorLight%>" offset="0.75"/>
         <stop stop-color="<%=gradient.colorDark%>" offset="1"/>
     </linearGradient>
 </defs>
+
 <rect x="<%=config.detailView.row.startX%>" y="<%=data.y%>" width="<%=config.detailView.row.width%>" height="<%=config.detailView.row.height%>"
-    fill="url(#detailView_gradient_<%=data.id%>)" style="fill-opacity:0.6;stroke:rgb(93,119,130);stroke-width:20;opacity:1.0" />
-<text x="<%=config.detailView.row.startX + 20%>" y="<%=data.y + config.detailView.row.height - 70%>" fill="#005fbf" font-family="Arial, sans-serif" font-size="150px" ><%=data.name%></text>
+    fill="url(#detailView_gradient_<%=row.id%>)" style="fill-opacity:0.6;stroke:rgb(93,119,130);stroke-width:20;opacity:1.0" />
+<text x="<%=config.detailView.row.startX + 20%>" y="<%=data.y + config.detailView.row.height - 70%>" fill="#005fbf" font-family="Arial, sans-serif" font-size="150px" ><%=row.name%></text>
+
+<% if (row.url) { %>
+    <a xlink:href="<%= row.url %>" target="newWindow">
+        <rect x="<%=config.detailView.row.startX%>" y="<%=data.y%>" width="<%=config.detailView.row.width%>" height="<%=config.detailView.row.height%>" stroke-width="0" fill-opacity="<%=config.url.opacity%>"/>
+    </a>
+<% } %>
 

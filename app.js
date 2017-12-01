@@ -112,7 +112,7 @@ function generateInfraCommonServicesSvg(clap) {
     for (i = 0; i < clap.infraCS.length; i++) {
         y = y - config.cs.spaceHeight - config.cs.height;
         var infraCS = clap.infraCS[i];
-        dynSvgOutput = dynSvgOutput + svgGenerator.getInfraCommonServiceSvgFragement(infraCS.name, y);
+        dynSvgOutput = dynSvgOutput + svgGenerator.getInfraCommonServiceSvgFragement(infraCS, y);
     }
     return dynSvgOutput;
 }
@@ -125,7 +125,7 @@ function generateAppCommonServicesSvg(clap) {
     for (i = 0; i < clap.appCS.length; i++) {
         y = y + config.cs.spaceHeight;
         var appCS = clap.appCS[i];
-        dynSvgOutput = dynSvgOutput + svgGenerator.getAppCommonServiceSvgFragement(appCS.name, y);
+        dynSvgOutput = dynSvgOutput + svgGenerator.getAppCommonServiceSvgFragement(appCS, y);
         y = y + config.cs.height;
     }
     return dynSvgOutput;
@@ -186,7 +186,7 @@ function generateRteAndDpeSvg(clap, colored) {
 
             //don't show dpe's with no name
             if (dpe.name != "") {
-                dynSvgOutputTopLayer = dynSvgOutputTopLayer + svgGenerator.getDpeSvgFragement(x1, x2, dpe.name, dpe.details);
+                dynSvgOutputTopLayer = dynSvgOutputTopLayer + svgGenerator.getDpeSvgFragement(x1, x2, dpe);
             }
 
             //another dpe within the same dpe cloud, or next dpe Cloud
@@ -290,7 +290,7 @@ function generateDetailSvg(clap, detailView) {
                                 var y = rows[detail.row].y + config.detailView.row.height/2;
                                 if (detailView.id != "io") {
                                     dynSvgOutput = dynSvgOutput + 
-                                    svgGenerator.getDetailSvgFragement(x, y, detail.state);
+                                    svgGenerator.getDetailSvgFragement(x, y, detail);
                                 } else {
                                     //kosmetische Korrektur
                                     x = x - 5;

@@ -1,5 +1,11 @@
 
-    <!-- generated: App Common Service <%=data.name%> -->
+    <!-- generated: App Common Service <%=cs.name%> -->
     <rect x="<%=config.rte.startX%>" y="<%=data.y%>" width="<%=config.cs.width%>" height="<%=config.cs.height%>"
         style="fill:rgb(127,162,177);fill-opacity:0.6;stroke:rgb(93,119,130);stroke-width:20;opacity:1.0" />
-    <text x="<%=config.rte.startX + 20%>" y="<%=data.y + config.cs.height - 40%>" fill="white" font-family="Arial, sans-serif" font-size="150px" ><%=data.name%></text>
+    <text x="<%=config.rte.startX + 20%>" y="<%=data.y + config.cs.height - 40%>" fill="white" font-family="Arial, sans-serif" font-size="150px" ><%=cs.name%></text>
+
+    <% if (cs.url) { %>
+        <a xlink:href="<%= cs.url %>" target="newWindow">
+            <rect x="<%=config.rte.startX%>" y="<%=data.y%>" width="<%=config.cs.width%>" height="<%=config.cs.height%>" stroke-width="0" fill-opacity="<%=config.url.opacity%>"/>
+        </a>
+    <% } %>
