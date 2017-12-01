@@ -10,7 +10,7 @@ Cloud TAP SVG Diagramm Generation Tooling
 * **templates** --> contains als svg snippet templates and configurtation files
 * **svg** --> output directory for the generated files, contains also the legend svgs
 
-#clap.json - Dokumentation
+# clap.json - Dokumentation
 ```
 "clap": {
         //clusters the deployment environments
