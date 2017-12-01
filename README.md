@@ -11,7 +11,7 @@ Cloud TAP SVG Diagramm Generation Tooling
 * **svg** --> output directory for the generated files, contains also the legend svgs
 
 #clap.json - Dokumentation
-```json
+```
 "clap": {
         //clusters the deployment environments
         "dpeCloud": [
