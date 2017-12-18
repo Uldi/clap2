@@ -162,6 +162,35 @@
                                 }
                             },
                             {
+                                "name": "SAP",
+                                "eol": "31.12.2018",
+                                "state": "yellow",
+                                "detail": {
+                                    "io": [
+                                        {
+                                            "row": "r",
+                                            "consumer": "green",
+                                            "provider": "green"
+                                        },
+                                        {
+                                            "row": "s",
+                                            "consumer": "green",
+                                            "provider": "green"
+                                        },
+                                        {
+                                            "row": "f",
+                                            "consumer": "green",
+                                            "provider": "green"
+                                        },
+                                        {
+                                            "row": "m",
+                                            "consumer": "green",
+                                            "provider": "green"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
                                 "name": "Sharepoint",
                                 "eol": "31.12.2020",
                                 "state": "yellow",
